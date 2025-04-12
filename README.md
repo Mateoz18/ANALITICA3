@@ -1,7 +1,6 @@
 # CONFIGURACIÓN GITHUB
 
 ## Configuración del usuario 
-
 Se realiza una sola vez por computador o cuándo se quiera cambiar de usuario
 
 git config --global user.name  'usuario’ 
