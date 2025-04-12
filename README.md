@@ -1,4 +1,4 @@
-# ANALITICA3
+# CONFIGURACIÓN GITHUB
 
 ## Configuración del usuario 
 
