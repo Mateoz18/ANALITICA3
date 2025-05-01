@@ -46,18 +46,6 @@ tabla_completa = pd.read_sql_query("SELECT * FROM full_ratings", conn)
 
 tabla_completa
 
-# Extraer el año desde movie_title y crear la nueva columna movie_year
-tabla_completa['movie_year'] = tabla_completa['movie_title'].str.extract(r'\((\d{4})\)', expand=False)
-
-# Convertir a numérico
-tabla_completa['movie_year'] = pd.to_numeric(tabla_completa['movie_year'], errors='coerce')
-
-tabla_completa
-
-tabla_completa['movie_title'] = tabla_completa['movie_title'].str.replace(r'\s*\(\d{4}\)', '', regex=True)
-
-tabla_completa
-
 """
 **Recomendaciones basado en popularidad**"""
 
@@ -193,24 +181,3 @@ interact(
     year=IntSlider(min=1990, max=2020, step=1, value=2000, description='Año:'),
     genre=Dropdown(options=generos, description='Género:')
 )
-
-"""**modelo de similitud**"""
-
-movie_user_matrix = tabla_completa.pivot_table(index='movie_title', columns='user_id', values='movie_rating').fillna(0)
-
-# Ajustar el modelo KNN
-model_knn = NearestNeighbors(metric='cosine', algorithm='brute')
-model_knn.fit(movie_user_matrix.values)
-
-# Para cada película, obtener los índices de las películas similares
-distances, indices = model_knn.kneighbors(movie_user_matrix.values, n_neighbors=6)  # 6 incluye la propia película
-
-# Guardar solo los 5 vecinos más cercanos (excluyendo la misma)
-idlist = [idx[1:] for idx in indices]
-
-def MovieRecommender(movie_name=list(movie_user_matrix.index)):
-    movie_index = movie_user_matrix.index.get_loc(movie_name)
-    similar_movies = [movie_user_matrix.index[i] for i in idlist[movie_index]]
-    return similar_movies
-
-interact(MovieRecommender)
