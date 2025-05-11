@@ -119,8 +119,8 @@ def main(list_user):
         recomendaciones_todos = pd.concat([recomendaciones_todos, recomendaciones])
 
     # Guardar las recomendaciones generadas
-    recomendaciones_todos.to_excel('/content/drive/MyDrive/Mod2/ANALITICA3/Trabajo Marketing/recomendaciones.xlsx')
-    recomendaciones_todos.to_csv('/content/drive/MyDrive/Mod2/ANALITICA3/Trabajo Marketing/recomendaciones.csv')
+    recomendaciones_todos.to_excel('/content/drive/MyDrive/Mod2/ANALITICA3/recomendaciones/recomendaciones.xlsx')
+    recomendaciones_todos.to_csv('/content/drive/MyDrive/Mod2/ANALITICA3/recomendaciones/recomendaciones.csv')
 
 # Ejecutar el código principal
 if __name__ == "__main__":
