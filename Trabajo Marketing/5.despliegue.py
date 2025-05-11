@@ -40,63 +40,21 @@ cur=conn.cursor() ###para funciones que ejecutan sql en base de datos
 """# <font color='056938'> **Configuración del log** </font>"""
 
 logging.basicConfig(
-    filename='/content/drive/MyDrive/Mod2/ANALITICA3/logs/script_log.log',
+    filename='/content/drive/MyDrive/Mod2/ANALITICA3/Trabajo Marketing/script_log.log',
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-# Cargar la tabla completa
-tabla_completa = pd.read_sql_query("SELECT * FROM full_ratings", conn)
+import sys
+sys.path.append('/content/drive/MyDrive/Mod2/ANALITICA3/Trabajo Marketing')
 
-# Verificación de la tabla cargada
-tabla_completa.info()
+from preprocesamiento import Tabla_procesada
 
-# Escalar el año para que esté en el mismo rango
-sc = StandardScaler()
-tabla_completa[["year_sc"]] = sc.fit_transform(tabla_completa[['movie_year']])
+def preprocesar(conn=None, cur=None):
+    movie_unificado, tabla_completa = Tabla_procesada(conn)
+    return movie_unificado, tabla_completa, conn, cur
 
-"""
-**Separacion de generos**"""
-
-# Separar los géneros y expandirlos en múltiples filas
-df_genres = tabla_completa.assign(movie_genres=tabla_completa['movie_genres'].str.split('|')).explode('movie_genres')
-df_genres = df_genres.rename(columns={'movie_genres': 'genre'})
-
-# Eliminar las columnas que no se van a usar
-movie_dum1 = df_genres.drop(columns=['user_id', 'movie_rating', 'movie_timestamp', 'movie_year', 'movie_title'])
-
-""" **Dumización de géneros**"""
-
-movie_dum1['genre'].nunique()
-col_dum = ['genre']
-movie_dum2 = pd.get_dummies(movie_dum1, columns=col_dum)
-
-# Unificar las películas por 'movie_id'
-movie_unificado = movie_dum2.groupby('movie_id', as_index=False).max()
-
-def Tabla_procesada(conn):
-    # Cargar la tabla
-    tabla_completa = pd.read_sql_query("SELECT * FROM full_ratings", conn)
-
-    # Escalar el año
-    sc = StandardScaler()
-    tabla_completa[["year_sc"]] = sc.fit_transform(tabla_completa[['movie_year']])
-
-    # Separar géneros y expandir
-    df_genres = tabla_completa.assign(movie_genres=tabla_completa['movie_genres'].str.split('|')).explode('movie_genres')
-    df_genres = df_genres.rename(columns={'movie_genres': 'genre'})
-
-    # Eliminar columnas innecesarias
-    movie_dum1 = df_genres.drop(columns=['user_id', 'movie_rating', 'movie_timestamp', 'movie_year', 'movie_title'])
-
-    # Dumificación
-    movie_dum2 = pd.get_dummies(movie_dum1, columns=['genre'])
-
-    # Unificar por movie_id
-    movie_unificado = movie_dum2.groupby('movie_id', as_index=False).max()
-
-    # También devolver tabla original para nombres de películas
-    return movie_unificado, tabla_completa
+movie_unificado, tabla_completa, conn, cur = preprocesar(conn, cur)
 
 """# <font color='056938'> **Modelo KNN basado en contenido** </font>"""
 
@@ -113,15 +71,6 @@ def MovieRecommender(movie_name=list(tabla_completa['movie_title'].value_counts(
         movie_list_name.append(tabla_completa.loc[newid].movie_title)
 
     return movie_list_name
-
-import sys
-sys.path.append('/content/drive/MyDrive/Mod2/ANALITICA3/Trabajo Marketing')
-
-from preprocesamiento import Tabla_procesada
-
-def preprocesar(conn=None, cur=None):
-    movie_dum2, movie = Tabla_procesada(conn)
-    return movie_dum2, movie, conn, cur
 
 # Función para procesar y guardar recomendaciones
 def recomendar(user_id, conn=None, cur=None, movie_dum2=None, movie=None):
@@ -177,3 +126,14 @@ def main(list_user):
 if __name__ == "__main__":
     list_user = [213, 381, 580]
     main(list_user)
+
+"""**Para Todos los Usuarios**"""
+
+# df_users = pd.read_sql('SELECT DISTINCT user_id FROM ratings_final', conn)
+# list_user = df_users['user_id'].tolist()
+
+# if __name__ == "__main__":
+#     conn = sql.connect('/content/drive/MyDrive/Mod2/ANALITICA3/data/db_movies')
+#     df_users = pd.read_sql('SELECT DISTINCT user_id FROM ratings_final', conn)
+#     list_user = df_users['user_id'].tolist()
+#     main(list_user)
