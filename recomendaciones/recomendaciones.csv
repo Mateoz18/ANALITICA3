@@ -1,4 +1,1302 @@
 ,movie_title,movie_id,user_id
+0,Beetlejuice,2174,1
+1,Batman Returns,1377,1
+2,Fantasia,1282,1
+3,Ghostbusters (a.k.a. Ghost Busters),2716,1
+4,"Abyss, The",1127,1
+5,"Fugitive, The",457,1
+6,Reservoir Dogs,1089,1
+7,Lethal Weapon,2000,1
+8,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,1
+9,"Rock, The",733,1
+10,Monty Python's Life of Brian,1080,1
+0,Ed Wood,235,4
+1,Superman,2640,4
+2,Maverick,368,4
+3,Fantasia,1282,4
+4,"Wizard of Oz, The",919,4
+5,"Rocky Horror Picture Show, The",2657,4
+6,Aladdin,588,4
+7,Star Wars: Episode I - The Phantom Menace,2628,4
+8,"Mummy, The",2617,4
+9,Who Framed Roger Rabbit?,2987,4
+10,"Fugitive, The",457,4
+0,Monty Python and the Holy Grail,1136,6
+1,"Three Musketeers, The",552,6
+2,"Game, The",1625,6
+3,"Jungle Book, The",2078,6
+4,Batman Returns,1377,6
+5,Con Air,1552,6
+6,Groundhog Day,1265,6
+7,Clear and Present Danger,349,6
+8,Rushmore,2395,6
+9,Big,2797,6
+10,"Princess Bride, The",1197,6
+0,Star Trek: Generations,329,7
+1,Last Action Hero,485,7
+2,"Shawshank Redemption, The",318,7
+3,Casino,16,7
+4,Sleepless in Seattle,539,7
+5,Congo,160,7
+6,Psycho,1219,7
+7,In the Line of Fire,474,7
+8,Outbreak,292,7
+9,Leaving Las Vegas,25,7
+10,Fantasia,1282,7
+0,Minority Report,5445,10
+1,"Matrix Reloaded, The",6365,10
+2,Gladiator,3578,10
+3,X-Men,3793,10
+4,Catch Me If You Can,5989,10
+5,"Lord of the Rings: The Fellowship of the Ring, The",4993,10
+6,As Good as It Gets,1784,10
+7,Star Wars: Episode II - Attack of the Clones,5378,10
+8,Psycho,1219,10
+9,Notting Hill,2671,10
+10,Shrek,4306,10
+0,Independence Day (a.k.a. ID4),780,11
+1,Wild Wild West,2701,11
+2,Twister,736,11
+3,Star Wars: Episode I - The Phantom Menace,2628,11
+4,Toy Story 2,3114,11
+5,Life Is Beautiful (La Vita è bella),2324,11
+6,Planet of the Apes,2529,11
+7,"Shining, The",1258,11
+8,Bad Boys,145,11
+9,"Hunt for Red October, The",1610,11
+10,Dumb & Dumber (Dumb and Dumber),231,11
+0,"Terminator, The",1240,15
+1,Pretty Woman,597,15
+2,Mrs. Doubtfire,500,15
+3,Ace Ventura: Pet Detective,344,15
+4,"Terminator, The",1240,15
+5,Terminator 2: Judgment Day,589,15
+6,Terminator 2: Judgment Day,589,15
+7,2001: A Space Odyssey,924,15
+8,Donnie Brasco,1466,15
+9,Brazil,1199,15
+10,Monty Python's Life of Brian,1080,15
+0,Goodfellas,1213,16
+1,Casper,158,16
+2,Pretty Woman,597,16
+3,Bad Boys,145,16
+4,Aladdin,588,16
+5,Batman Returns,1377,16
+6,Rushmore,2395,16
+7,E.T. the Extra-Terrestrial,1097,16
+8,Independence Day (a.k.a. ID4),780,16
+9,Planet of the Apes,2529,16
+10,Some Like It Hot,910,16
+0,Star Wars: Episode V - The Empire Strikes Back,1196,17
+1,Dead Man Walking,36,17
+2,In the Line of Fire,474,17
+3,"Princess Bride, The",1197,17
+4,"Wizard of Oz, The",919,17
+5,"Wedding Singer, The",1777,17
+6,Forrest Gump,356,17
+7,"Silence of the Lambs, The",593,17
+8,Fargo,608,17
+9,Willy Wonka & the Chocolate Factory,1073,17
+10,Terminator 2: Judgment Day,589,17
+0,Beauty and the Beast,595,20
+1,"Lord of the Rings: The Two Towers, The",5952,20
+2,Hot Shots! Part Deux,466,20
+3,Contact,1584,20
+4,Top Gun,1101,20
+5,"Silence of the Lambs, The",593,20
+6,Minority Report,5445,20
+7,Batman,592,20
+8,Star Trek: Generations,329,20
+9,Star Wars: Episode V - The Empire Strikes Back,1196,20
+10,Shrek 2,8360,20
+0,"Fugitive, The",457,21
+1,Addams Family Values,410,21
+2,Philadelphia,508,21
+3,Star Wars: Episode VI - Return of the Jedi,1210,21
+4,Heat,6,21
+5,Some Like It Hot,910,21
+6,In the Line of Fire,474,21
+7,Forrest Gump,356,21
+8,High Fidelity,3481,21
+9,Mrs. Doubtfire,500,21
+10,"Truth About Cats & Dogs, The",708,21
+0,"Matrix Revolutions, The",6934,22
+1,Shrek,4306,22
+2,Legally Blonde,4447,22
+3,Superman,2640,22
+4,"Last Samurai, The",7143,22
+5,Mary Poppins,1028,22
+6,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2),5459,22
+7,Ocean's Eleven,4963,22
+8,Harry Potter and the Prisoner of Azkaban,8368,22
+9,Star Wars: Episode II - Attack of the Clones,5378,22
+10,Bridget Jones's Diary,4246,22
+0,Tombstone,553,23
+1,Galaxy Quest,3175,23
+2,Office Space,2502,23
+3,Groundhog Day,1265,23
+4,"Santa Clause, The",317,23
+5,"Terminator, The",1240,23
+6,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,23
+7,Reservoir Dogs,1089,23
+8,Run Lola Run (Lola rennt),2692,23
+9,2001: A Space Odyssey,924,23
+10,Tron,2105,23
+0,"Usual Suspects, The",50,24
+1,2001: A Space Odyssey,924,24
+2,Superman,2640,24
+3,Austin Powers: International Man of Mystery,1517,24
+4,Austin Powers: The Spy Who Shagged Me,2683,24
+5,Citizen Kane,923,24
+6,"Princess Bride, The",1197,24
+7,Spider-Man,5349,24
+8,"Wizard of Oz, The",919,24
+9,American History X,2329,24
+10,"Mummy, The",2617,24
+0,Jurassic Park,480,27
+1,Romancing the Stone,2406,27
+2,Goodfellas,1213,27
+3,Casper,158,27
+4,Dogma,3052,27
+5,Twister,736,27
+6,Blow,4239,27
+7,Face/Off,1573,27
+8,"Rock, The",733,27
+9,"Matrix, The",2571,27
+10,E.T. the Extra-Terrestrial,1097,27
+0,"Three Musketeers, The",552,29
+1,Superman,2640,29
+2,Apocalypse Now,1208,29
+3,Minority Report,5445,29
+4,"Matrix, The",2571,29
+5,Star Wars: Episode I - The Phantom Menace,2628,29
+6,"Crow, The",353,29
+7,"Client, The",350,29
+8,Back to the Future,1270,29
+9,Star Wars: Episode VI - Return of the Jedi,1210,29
+10,E.T. the Extra-Terrestrial,1097,29
+0,Life Is Beautiful (La Vita è bella),2324,32
+1,Goodfellas,1213,32
+2,Spaceballs,3033,32
+3,"Wedding Singer, The",1777,32
+4,Back to the Future Part III,2012,32
+5,Twelve Monkeys (a.k.a. 12 Monkeys),32,32
+6,Ace Ventura: When Nature Calls,19,32
+7,Psycho,1219,32
+8,Mission: Impossible,648,32
+9,Grosse Pointe Blank,1500,32
+10,Monty Python's Life of Brian,1080,32
+0,Full Metal Jacket,1222,33
+1,Edward Scissorhands,2291,33
+2,Lethal Weapon,2000,33
+3,"Game, The",1625,33
+4,"Rock, The",733,33
+5,Seven (a.k.a. Se7en),47,33
+6,"Lock, Stock & Two Smoking Barrels",2542,33
+7,Hook,3489,33
+8,Leaving Las Vegas,25,33
+9,Stand by Me,1259,33
+10,"Breakfast Club, The",1968,33
+0,"Three Musketeers, The",552,34
+1,Austin Powers: International Man of Mystery,1517,34
+2,Superman,2640,34
+3,"Silence of the Lambs, The",593,34
+4,Dead Poets Society,1246,34
+5,"Princess Bride, The",1197,34
+6,Dances with Wolves,590,34
+7,Life Is Beautiful (La Vita è bella),2324,34
+8,Seven (a.k.a. Se7en),47,34
+9,Galaxy Quest,3175,34
+10,Run Lola Run (Lola rennt),2692,34
+0,Grumpier Old Men,3,36
+1,Batman,592,36
+2,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),4896,36
+3,Tron,2105,36
+4,Rushmore,2395,36
+5,Crimson Tide,161,36
+6,Forrest Gump,356,36
+7,Back to the Future Part III,2012,36
+8,Braveheart,110,36
+9,Grosse Pointe Blank,1500,36
+10,Platoon,1090,36
+0,"Honey, I Shrunk the Kids",2054,38
+1,Psycho,1219,38
+2,"Rock, The",733,38
+3,"Big Lebowski, The",1732,38
+4,Predator,3527,38
+5,Face/Off,1573,38
+6,Fight Club,2959,38
+7,Lethal Weapon,2000,38
+8,Dances with Wolves,590,38
+9,Romancing the Stone,2406,38
+10,Heat,6,38
+0,Brazil,1199,39
+1,Grumpier Old Men,3,39
+2,Rushmore,2395,39
+3,Monty Python and the Holy Grail,1136,39
+4,Austin Powers: International Man of Mystery,1517,39
+5,Blazing Saddles,3671,39
+6,Men in Black (a.k.a. MIB),1580,39
+7,Indiana Jones and the Last Crusade,1291,39
+8,12 Angry Men,1203,39
+9,"Princess Bride, The",1197,39
+10,"Princess Bride, The",1197,39
+0,Stargate,316,40
+1,Back to the Future Part III,2012,40
+2,"Few Good Men, A",2268,40
+3,"Big Lebowski, The",1732,40
+4,Babe,34,40
+5,Mission: Impossible,648,40
+6,American Beauty,2858,40
+7,Grumpier Old Men,3,40
+8,Willy Wonka & the Chocolate Factory,1073,40
+9,Fight Club,2959,40
+10,Groundhog Day,1265,40
+0,Seven (a.k.a. Se7en),47,41
+1,Tron,2105,41
+2,Batman,592,41
+3,Star Wars: Episode V - The Empire Strikes Back,1196,41
+4,Reservoir Dogs,1089,41
+5,Star Wars: Episode IV - A New Hope,260,41
+6,Full Metal Jacket,1222,41
+7,Office Space,2502,41
+8,"Usual Suspects, The",50,41
+9,Dead Poets Society,1246,41
+10,L.A. Confidential,1617,41
+0,Fargo,608,42
+1,Star Wars: Episode V - The Empire Strikes Back,1196,42
+2,Alien,1214,42
+3,"Abyss, The",1127,42
+4,Space Jam,673,42
+5,Clerks,223,42
+6,Good Will Hunting,1704,42
+7,L.A. Confidential,1617,42
+8,Batman,592,42
+9,Gladiator,3578,42
+10,"Fugitive, The",457,42
+0,Dumb & Dumber (Dumb and Dumber),231,43
+1,Goodfellas,1213,43
+2,Mission: Impossible,648,43
+3,Enemy of the State,2353,43
+4,Ed Wood,235,43
+5,Back to the Future Part III,2012,43
+6,"Full Monty, The",1641,43
+7,Grosse Pointe Blank,1500,43
+8,"Three Musketeers, The",552,43
+9,"Wedding Singer, The",1777,43
+10,Austin Powers: International Man of Mystery,1517,43
+0,Independence Day (a.k.a. ID4),780,45
+1,Dumb & Dumber (Dumb and Dumber),231,45
+2,Citizen Kane,923,45
+3,Being John Malkovich,2997,45
+4,"Matrix, The",2571,45
+5,Forrest Gump,356,45
+6,"South Park: Bigger, Longer and Uncut",2700,45
+7,Con Air,1552,45
+8,Groundhog Day,1265,45
+9,Lethal Weapon,2000,45
+10,"Terminator, The",1240,45
+0,Batman Returns,1377,47
+1,Casper,158,47
+2,Tombstone,553,47
+3,Sleepless in Seattle,539,47
+4,Lethal Weapon,2000,47
+5,Pulp Fiction,296,47
+6,"Santa Clause, The",317,47
+7,Beetlejuice,2174,47
+8,"Jungle Book, The",2078,47
+9,Mr. Holland's Opus,62,47
+10,Austin Powers: International Man of Mystery,1517,47
+0,Twister,736,50
+1,Edward Scissorhands,2291,50
+2,Monty Python's Life of Brian,1080,50
+3,"Blues Brothers, The",1220,50
+4,Full Metal Jacket,1222,50
+5,Sense and Sensibility,17,50
+6,Batman,592,50
+7,Armageddon,1917,50
+8,Austin Powers: The Spy Who Shagged Me,2683,50
+9,L.A. Confidential,1617,50
+10,First Knight,168,50
+0,Ghost,587,51
+1,Enemy of the State,2353,51
+2,Platoon,1090,51
+3,This Is Spinal Tap,1288,51
+4,Braveheart,110,51
+5,Reservoir Dogs,1089,51
+6,Star Wars: Episode VI - Return of the Jedi,1210,51
+7,Groundhog Day,1265,51
+8,"Usual Suspects, The",50,51
+9,Austin Powers: International Man of Mystery,1517,51
+10,"Mummy, The",2617,51
+0,American Beauty,2858,52
+1,Minority Report,5445,52
+2,Back to the Future,1270,52
+3,Natural Born Killers,288,52
+4,Austin Powers: International Man of Mystery,1517,52
+5,Armageddon,1917,52
+6,Election,2599,52
+7,Spirited Away (Sen to Chihiro no kamikakushi),5618,52
+8,Philadelphia,508,52
+9,Waterworld,208,52
+10,Austin Powers: The Spy Who Shagged Me,2683,52
+0,Planet of the Apes,2529,57
+1,Dances with Wolves,590,57
+2,Star Wars: Episode IV - A New Hope,260,57
+3,"Mask, The",367,57
+4,Groundhog Day,1265,57
+5,"Shining, The",1258,57
+6,Four Weddings and a Funeral,357,57
+7,Fantasia,1282,57
+8,Monty Python and the Holy Grail,1136,57
+9,"Few Good Men, A",2268,57
+10,Space Jam,673,57
+0,Clerks,223,58
+1,"Clockwork Orange, A",1206,58
+2,Rocky,1954,58
+3,Who Framed Roger Rabbit?,2987,58
+4,"Game, The",1625,58
+5,Face/Off,1573,58
+6,"Silence of the Lambs, The",593,58
+7,Indiana Jones and the Last Crusade,1291,58
+8,"Few Good Men, A",2268,58
+9,Life Is Beautiful (La Vita è bella),2324,58
+10,Good Will Hunting,1704,58
+0,Pinocchio,596,59
+1,"Clockwork Orange, A",1206,59
+2,"Silence of the Lambs, The",593,59
+3,"Abyss, The",1127,59
+4,First Knight,168,59
+5,Star Wars: Episode VI - Return of the Jedi,1210,59
+6,This Is Spinal Tap,1288,59
+7,Enemy of the State,2353,59
+8,Independence Day (a.k.a. ID4),780,59
+9,Tron,2105,59
+10,Crocodile Dundee,2470,59
+0,Twister,736,62
+1,"Blues Brothers, The",1220,62
+2,Terminator 2: Judgment Day,589,62
+3,Batman,592,62
+4,True Lies,380,62
+5,Léon: The Professional (a.k.a. The Professional) (Léon),293,62
+6,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),4896,62
+7,Braveheart,110,62
+8,2001: A Space Odyssey,924,62
+9,Toy Story,1,62
+10,12 Angry Men,1203,62
+0,Stargate,316,63
+1,Independence Day (a.k.a. ID4),780,63
+2,"American President, The",11,63
+3,Braveheart,110,63
+4,"Wizard of Oz, The",919,63
+5,Back to the Future,1270,63
+6,Austin Powers: International Man of Mystery,1517,63
+7,Fight Club,2959,63
+8,Brazil,1199,63
+9,Men in Black (a.k.a. MIB),1580,63
+10,"Abyss, The",1127,63
+0,Twister,736,66
+1,GoldenEye,10,66
+2,Apocalypse Now,1208,66
+3,Star Wars: Episode VI - Return of the Jedi,1210,66
+4,Full Metal Jacket,1222,66
+5,Die Hard: With a Vengeance,165,66
+6,"Princess Bride, The",1197,66
+7,Batman,592,66
+8,"South Park: Bigger, Longer and Uncut",2700,66
+9,"Full Monty, The",1641,66
+10,"Wizard of Oz, The",919,66
+0,Con Air,1552,70
+1,Mission: Impossible II,3623,70
+2,Dances with Wolves,590,70
+3,L.A. Confidential,1617,70
+4,School of Rock,6863,70
+5,Back to the Future Part III,2012,70
+6,Who Framed Roger Rabbit?,2987,70
+7,"Big Lebowski, The",1732,70
+8,"Sixth Sense, The",2762,70
+9,"Mask, The",367,70
+10,From Dusk Till Dawn,70,70
+0,Rocky,1954,73
+1,Aladdin,588,73
+2,Pirates of the Caribbean: The Curse of the Black Pearl,6539,73
+3,Mission: Impossible II,3623,73
+4,Cliffhanger,434,73
+5,Dances with Wolves,590,73
+6,Aladdin,588,73
+7,Pulp Fiction,296,73
+8,Ice Age,5218,73
+9,What Women Want,4018,73
+10,Life Is Beautiful (La Vita è bella),2324,73
+0,Bridget Jones's Diary,4246,74
+1,Batman,592,74
+2,"Lion King, The",364,74
+3,Con Air,1552,74
+4,Grosse Pointe Blank,1500,74
+5,Star Wars: Episode V - The Empire Strikes Back,1196,74
+6,Full Metal Jacket,1222,74
+7,Beauty and the Beast,595,74
+8,American History X,2329,74
+9,Babe,34,74
+10,Star Trek: Generations,329,74
+0,Tombstone,553,75
+1,2001: A Space Odyssey,924,75
+2,A.I. Artificial Intelligence,4370,75
+3,Indiana Jones and the Last Crusade,1291,75
+4,"Abyss, The",1127,75
+5,Crimson Tide,161,75
+6,Beetlejuice,2174,75
+7,American Beauty,2858,75
+8,Monty Python and the Holy Grail,1136,75
+9,Psycho,1219,75
+10,Ace Ventura: Pet Detective,344,75
+0,"Truth About Cats & Dogs, The",708,76
+1,Apocalypse Now,1208,76
+2,Beauty and the Beast,595,76
+3,"Rock, The",733,76
+4,Monty Python's Life of Brian,1080,76
+5,Romancing the Stone,2406,76
+6,Braveheart,110,76
+7,Moulin Rouge,4308,76
+8,Star Wars: Episode VI - Return of the Jedi,1210,76
+9,"Princess Bride, The",1197,76
+10,Rear Window,904,76
+0,Almost Famous,3897,78
+1,"Usual Suspects, The",50,78
+2,"Terminator, The",1240,78
+3,Reservoir Dogs,1089,78
+4,Romancing the Stone,2406,78
+5,Outbreak,292,78
+6,"Clockwork Orange, A",1206,78
+7,Monty Python's Life of Brian,1080,78
+8,Apocalypse Now,1208,78
+9,Groundhog Day,1265,78
+10,"Breakfast Club, The",1968,78
+0,"Santa Clause, The",317,79
+1,"Lion King, The",364,79
+2,Galaxy Quest,3175,79
+3,Gladiator,3578,79
+4,Willy Wonka & the Chocolate Factory,1073,79
+5,Outbreak,292,79
+6,"Three Musketeers, The",552,79
+7,Bridget Jones's Diary,4246,79
+8,"Piano, The",509,79
+9,Total Recall,2916,79
+10,Twelve Monkeys (a.k.a. 12 Monkeys),32,79
+0,Mission: Impossible II,3623,80
+1,Ice Age,5218,80
+2,Superman,2640,80
+3,"Graduate, The",1247,80
+4,Natural Born Killers,288,80
+5,Star Wars: Episode II - Attack of the Clones,5378,80
+6,"Matrix, The",2571,80
+7,As Good as It Gets,1784,80
+8,Election,2599,80
+9,"Silence of the Lambs, The",593,80
+10,Waterworld,208,80
+0,"Abyss, The",1127,82
+1,Tommy Boy,333,82
+2,Fantasia,1282,82
+3,Indiana Jones and the Last Crusade,1291,82
+4,Waterworld,208,82
+5,Superman,2640,82
+6,Star Trek: Generations,329,82
+7,Rear Window,904,82
+8,Alien,1214,82
+9,Austin Powers: The Spy Who Shagged Me,2683,82
+10,North by Northwest,908,82
+0,"Terminator, The",1240,83
+1,Gladiator,3578,83
+2,Tombstone,553,83
+3,Die Hard: With a Vengeance,165,83
+4,"Hunt for Red October, The",1610,83
+5,Tommy Boy,333,83
+6,Star Wars: Episode I - The Phantom Menace,2628,83
+7,"Jungle Book, The",2078,83
+8,"Firm, The",454,83
+9,Indiana Jones and the Last Crusade,1291,83
+10,"Abyss, The",1127,83
+0,"Wizard of Oz, The",919,84
+1,Beetlejuice,2174,84
+2,Twister,736,84
+3,Young Frankenstein,1278,84
+4,"Game, The",1625,84
+5,Butch Cassidy and the Sundance Kid,1304,84
+6,Psycho,1219,84
+7,"Terminator, The",1240,84
+8,"Wizard of Oz, The",919,84
+9,"Clockwork Orange, A",1206,84
+10,Tombstone,553,84
+0,Beauty and the Beast,595,86
+1,Armageddon,1917,86
+2,Mrs. Doubtfire,500,86
+3,Back to the Future,1270,86
+4,Léon: The Professional (a.k.a. The Professional) (Léon),293,86
+5,"Silence of the Lambs, The",593,86
+6,Terminator 2: Judgment Day,589,86
+7,Monty Python's Life of Brian,1080,86
+8,Happy Gilmore,104,86
+9,Snow White and the Seven Dwarfs,594,86
+10,Top Gun,1101,86
+0,Star Wars: Episode III - Revenge of the Sith,33493,88
+1,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),4896,88
+2,X2: X-Men United,6333,88
+3,Ice Age,5218,88
+4,"Truman Show, The",1682,88
+5,Batman,592,88
+6,"Bourne Supremacy, The",8665,88
+7,Spaceballs,3033,88
+8,Face/Off,1573,88
+9,"Lord of the Rings: The Two Towers, The",5952,88
+10,Magnolia,3160,88
+0,Dances with Wolves,590,90
+1,GoldenEye,10,90
+2,Men in Black (a.k.a. MIB),1580,90
+3,Con Air,1552,90
+4,"Princess Bride, The",1197,90
+5,Big,2797,90
+6,Rushmore,2395,90
+7,Planet of the Apes,2529,90
+8,Mission: Impossible,648,90
+9,Cliffhanger,434,90
+10,First Knight,168,90
+0,Men in Black (a.k.a. MIB),1580,93
+1,Independence Day (a.k.a. ID4),780,93
+2,Con Air,1552,93
+3,"Goonies, The",2005,93
+4,RoboCop,2985,93
+5,Forrest Gump,356,93
+6,Alien,1214,93
+7,Jurassic Park,480,93
+8,Hook,3489,93
+9,Get Shorty,21,93
+10,Twister,736,93
+0,"Matrix, The",2571,94
+1,Willy Wonka & the Chocolate Factory,1073,94
+2,Groundhog Day,1265,94
+3,"Few Good Men, A",2268,94
+4,Big,2797,94
+5,Mission: Impossible,648,94
+6,Airplane!,2791,94
+7,Back to the Future Part III,2012,94
+8,Traffic,4034,94
+9,"Big Lebowski, The",1732,94
+10,American Beauty,2858,94
+0,Dances with Wolves,590,95
+1,Eyes Wide Shut,2712,95
+2,Willy Wonka & the Chocolate Factory,1073,95
+3,E.T. the Extra-Terrestrial,1097,95
+4,Donnie Brasco,1466,95
+5,Ghost,587,95
+6,Disclosure,225,95
+7,Apocalypse Now,1208,95
+8,"Shining, The",1258,95
+9,Armageddon,1917,95
+10,"Crow, The",353,95
+0,"Fugitive, The",457,96
+1,Goodfellas,1213,96
+2,L.A. Confidential,1617,96
+3,Face/Off,1573,96
+4,Who Framed Roger Rabbit?,2987,96
+5,Happy Gilmore,104,96
+6,"O Brother, Where Art Thou?",4027,96
+7,"Wizard of Oz, The",919,96
+8,Psycho,1219,96
+9,"Goonies, The",2005,96
+10,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,96
+0,"Sixth Sense, The",2762,98
+1,Contact,1584,98
+2,"Lord of the Rings: The Two Towers, The",5952,98
+3,Star Wars: Episode I - The Phantom Menace,2628,98
+4,Election,2599,98
+5,Pulp Fiction,296,98
+6,Interview with the Vampire: The Vampire Chronicles,253,98
+7,"Sixth Sense, The",2762,98
+8,X2: X-Men United,6333,98
+9,There's Something About Mary,1923,98
+10,Fantasia,1282,98
+0,Heat,6,99
+1,"O Brother, Where Art Thou?",4027,99
+2,Braveheart,110,99
+3,"Lion King, The",364,99
+4,Jurassic Park,480,99
+5,"Three Musketeers, The",552,99
+6,Beetlejuice,2174,99
+7,Who Framed Roger Rabbit?,2987,99
+8,"Terminator, The",1240,99
+9,"Hunt for Red October, The",1610,99
+10,Traffic,4034,99
+0,Grosse Pointe Blank,1500,100
+1,"Fugitive, The",457,100
+2,"Game, The",1625,100
+3,Heat,6,100
+4,Being John Malkovich,2997,100
+5,"Honey, I Shrunk the Kids",2054,100
+6,Goodfellas,1213,100
+7,Fight Club,2959,100
+8,Grosse Pointe Blank,1500,100
+9,Austin Powers: International Man of Mystery,1517,100
+10,"Rock, The",733,100
+0,Men in Black (a.k.a. MIB),1580,101
+1,Bad Boys,145,101
+2,Rushmore,2395,101
+3,"Silence of the Lambs, The",593,101
+4,"Fugitive, The",457,101
+5,Clear and Present Danger,349,101
+6,Men in Black (a.k.a. MIB),1580,101
+7,"Jungle Book, The",2078,101
+8,"Jungle Book, The",2078,101
+9,Star Wars: Episode I - The Phantom Menace,2628,101
+10,Batman,592,101
+0,Almost Famous,3897,102
+1,"Jungle Book, The",2078,102
+2,Twister,736,102
+3,Crocodile Dundee,2470,102
+4,"Blues Brothers, The",1220,102
+5,"Wedding Singer, The",1777,102
+6,Men in Black (a.k.a. MIB),1580,102
+7,Seven (a.k.a. Se7en),47,102
+8,Batman,592,102
+9,"Rocky Horror Picture Show, The",2657,102
+10,Spaceballs,3033,102
+0,Desperado,163,103
+1,Four Weddings and a Funeral,357,103
+2,E.T. the Extra-Terrestrial,1097,103
+3,Grosse Pointe Blank,1500,103
+4,Run Lola Run (Lola rennt),2692,103
+5,Seven (a.k.a. Se7en),47,103
+6,"Abyss, The",1127,103
+7,High Fidelity,3481,103
+8,Eyes Wide Shut,2712,103
+9,"Wedding Singer, The",1777,103
+10,"Big Lebowski, The",1732,103
+0,"Fugitive, The",457,104
+1,Alien,1214,104
+2,Indiana Jones and the Temple of Doom,2115,104
+3,Citizen Kane,923,104
+4,"Wedding Singer, The",1777,104
+5,GoldenEye,10,104
+6,"Game, The",1625,104
+7,American Beauty,2858,104
+8,Star Wars: Episode V - The Empire Strikes Back,1196,104
+9,Groundhog Day,1265,104
+10,Monty Python and the Holy Grail,1136,104
+0,Gladiator,3578,108
+1,School of Rock,6863,108
+2,Batman,592,108
+3,Enemy of the State,2353,108
+4,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,108
+5,"Green Mile, The",3147,108
+6,"Lord of the Rings: The Fellowship of the Ring, The",4993,108
+7,Being John Malkovich,2997,108
+8,True Lies,380,108
+9,Groundhog Day,1265,108
+10,"Clockwork Orange, A",1206,108
+0,Pinocchio,596,109
+1,Lethal Weapon,2000,109
+2,Edward Scissorhands,2291,109
+3,Apocalypse Now,1208,109
+4,Men in Black (a.k.a. MIB),1580,109
+5,Goodfellas,1213,109
+6,"Lock, Stock & Two Smoking Barrels",2542,109
+7,Batman Returns,1377,109
+8,Galaxy Quest,3175,109
+9,Starship Troopers,1676,109
+10,Mrs. Doubtfire,500,109
+0,Happy Gilmore,104,110
+1,Beetlejuice,2174,110
+2,Indiana Jones and the Last Crusade,1291,110
+3,"Fugitive, The",457,110
+4,"Three Musketeers, The",552,110
+5,Rocky,1954,110
+6,"Jungle Book, The",2078,110
+7,Traffic,4034,110
+8,"Breakfast Club, The",1968,110
+9,Grosse Pointe Blank,1500,110
+10,Disclosure,225,110
+0,"Terminator, The",1240,112
+1,Back to the Future Part III,2012,112
+2,Dances with Wolves,590,112
+3,Forrest Gump,356,112
+4,"Truman Show, The",1682,112
+5,2001: A Space Odyssey,924,112
+6,"Big Lebowski, The",1732,112
+7,"Fugitive, The",457,112
+8,Good Will Hunting,1704,112
+9,"American President, The",11,112
+10,Jumanji,2,112
+0,Ace Ventura: Pet Detective,344,113
+1,Tommy Boy,333,113
+2,Traffic,4034,113
+3,Grosse Pointe Blank,1500,113
+4,Braveheart,110,113
+5,"Piano, The",509,113
+6,Lethal Weapon,2000,113
+7,Memento,4226,113
+8,Austin Powers: The Spy Who Shagged Me,2683,113
+9,Donnie Brasco,1466,113
+10,Pulp Fiction,296,113
+0,Goodfellas,1213,115
+1,"Wedding Singer, The",1777,115
+2,Ghostbusters (a.k.a. Ghost Busters),2716,115
+3,Monty Python and the Holy Grail,1136,115
+4,"Wizard of Oz, The",919,115
+5,Independence Day (a.k.a. ID4),780,115
+6,Spaceballs,3033,115
+7,Starship Troopers,1676,115
+8,"Honey, I Shrunk the Kids",2054,115
+9,Jurassic Park,480,115
+10,Election,2599,115
+0,Happy Gilmore,104,116
+1,Star Wars: Episode I - The Phantom Menace,2628,116
+2,"Blues Brothers, The",1220,116
+3,Willy Wonka & the Chocolate Factory,1073,116
+4,"Wedding Singer, The",1777,116
+5,Star Wars: Episode V - The Empire Strikes Back,1196,116
+6,"Wizard of Oz, The",919,116
+7,Independence Day (a.k.a. ID4),780,116
+8,Blow,4239,116
+9,RoboCop,2985,116
+10,Citizen Kane,923,116
+0,Schindler's List,527,117
+1,L.A. Confidential,1617,117
+2,"Honey, I Shrunk the Kids",2054,117
+3,"Abyss, The",1127,117
+4,Indiana Jones and the Last Crusade,1291,117
+5,"Shining, The",1258,117
+6,Tommy Boy,333,117
+7,Enemy of the State,2353,117
+8,Star Wars: Episode V - The Empire Strikes Back,1196,117
+9,Austin Powers: International Man of Mystery,1517,117
+10,"South Park: Bigger, Longer and Uncut",2700,117
+0,X-Men,3793,119
+1,"Truman Show, The",1682,119
+2,Ice Age,5218,119
+3,"Matrix Reloaded, The",6365,119
+4,Superman,2640,119
+5,Minority Report,5445,119
+6,What Women Want,4018,119
+7,L.A. Confidential,1617,119
+8,Beauty and the Beast,595,119
+9,"Hunt for Red October, The",1610,119
+10,Gladiator,3578,119
+0,Stargate,316,121
+1,"Shining, The",1258,121
+2,Citizen Kane,923,121
+3,Back to the Future,1270,121
+4,"Lock, Stock & Two Smoking Barrels",2542,121
+5,Clear and Present Danger,349,121
+6,"Honey, I Shrunk the Kids",2054,121
+7,"Matrix, The",2571,121
+8,Beetlejuice,2174,121
+9,Ghostbusters (a.k.a. Ghost Busters),2716,121
+10,"Goonies, The",2005,121
+0,Space Jam,673,122
+1,Pulp Fiction,296,122
+2,Platoon,1090,122
+3,"Wizard of Oz, The",919,122
+4,Four Weddings and a Funeral,357,122
+5,Magnolia,3160,122
+6,Galaxy Quest,3175,122
+7,Face/Off,1573,122
+8,Robin Hood: Men in Tights,520,122
+9,"Three Musketeers, The",552,122
+10,Ed Wood,235,122
+0,Con Air,1552,123
+1,"Truman Show, The",1682,123
+2,Star Wars: Episode V - The Empire Strikes Back,1196,123
+3,"Princess Bride, The",1197,123
+4,"Terminator, The",1240,123
+5,"Rocky Horror Picture Show, The",2657,123
+6,Jumanji,2,123
+7,"Mask, The",367,123
+8,Crocodile Dundee,2470,123
+9,Men in Black (a.k.a. MIB),1580,123
+10,Being John Malkovich,2997,123
+0,Jurassic Park,480,125
+1,Groundhog Day,1265,125
+2,"Hunt for Red October, The",1610,125
+3,Happy Gilmore,104,125
+4,Austin Powers: International Man of Mystery,1517,125
+5,Dead Man Walking,36,125
+6,Men in Black (a.k.a. MIB),1580,125
+7,"Honey, I Shrunk the Kids",2054,125
+8,"Game, The",1625,125
+9,Superman,2640,125
+10,Top Gun,1101,125
+0,Schindler's List,527,129
+1,Mrs. Doubtfire,500,129
+2,Moulin Rouge,4308,129
+3,Starship Troopers,1676,129
+4,Monty Python and the Holy Grail,1136,129
+5,Tombstone,553,129
+6,Die Hard: With a Vengeance,165,129
+7,Jurassic Park,480,129
+8,"O Brother, Where Art Thou?",4027,129
+9,Indiana Jones and the Last Crusade,1291,129
+10,Top Gun,1101,129
+0,"Shining, The",1258,131
+1,Batman,592,131
+2,Contact,1584,131
+3,"Clockwork Orange, A",1206,131
+4,Monty Python's Life of Brian,1080,131
+5,Back to the Future,1270,131
+6,"Usual Suspects, The",50,131
+7,Unbreakable,3994,131
+8,Léon: The Professional (a.k.a. The Professional) (Léon),293,131
+9,Men in Black (a.k.a. MIB),1580,131
+10,Back to the Future Part III,2012,131
+0,"Princess Bride, The",1197,132
+1,Young Frankenstein,1278,132
+2,Indiana Jones and the Last Crusade,1291,132
+3,"Fugitive, The",457,132
+4,Clear and Present Danger,349,132
+5,Edward Scissorhands,2291,132
+6,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,132
+7,Fargo,608,132
+8,Men in Black (a.k.a. MIB),1580,132
+9,"Blues Brothers, The",1220,132
+10,"Green Mile, The",3147,132
+0,Monty Python and the Holy Grail,1136,135
+1,E.T. the Extra-Terrestrial,1097,135
+2,Predator,3527,135
+3,"Truth About Cats & Dogs, The",708,135
+4,Space Jam,673,135
+5,Willy Wonka & the Chocolate Factory,1073,135
+6,"Breakfast Club, The",1968,135
+7,Pinocchio,596,135
+8,Men in Black (a.k.a. MIB),1580,135
+9,Aladdin,588,135
+10,Schindler's List,527,135
+0,Independence Day (a.k.a. ID4),780,136
+1,Office Space,2502,136
+2,Tron,2105,136
+3,Run Lola Run (Lola rennt),2692,136
+4,Full Metal Jacket,1222,136
+5,Rocky,1954,136
+6,L.A. Confidential,1617,136
+7,"Silence of the Lambs, The",593,136
+8,"Shining, The",1258,136
+9,Pulp Fiction,296,136
+10,Eyes Wide Shut,2712,136
+0,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,137
+1,"Three Musketeers, The",552,137
+2,"Usual Suspects, The",50,137
+3,Rear Window,904,137
+4,Groundhog Day,1265,137
+5,"Fugitive, The",457,137
+6,North by Northwest,908,137
+7,Blow,4239,137
+8,Men in Black (a.k.a. MIB),1580,137
+9,Best in Show,3911,137
+10,Get Shorty,21,137
+0,Aladdin,588,139
+1,X2: X-Men United,6333,139
+2,"Sixth Sense, The",2762,139
+3,"Matrix, The",2571,139
+4,"Beautiful Mind, A",4995,139
+5,Bridget Jones's Diary,4246,139
+6,Casablanca,912,139
+7,"Matrix Reloaded, The",6365,139
+8,X-Men: The Last Stand,45499,139
+9,Ocean's Eleven,4963,139
+10,"Sixth Sense, The",2762,139
+0,Star Wars: Episode VI - Return of the Jedi,1210,141
+1,Forrest Gump,356,141
+2,"Wizard of Oz, The",919,141
+3,Braveheart,110,141
+4,Hook,3489,141
+5,Casablanca,912,141
+6,Men in Black (a.k.a. MIB),1580,141
+7,Twister,736,141
+8,"Fugitive, The",457,141
+9,Aladdin,588,141
+10,Last Action Hero,485,141
+0,Spider-Man,5349,143
+1,300,51662,143
+2,"Matrix Revolutions, The",6934,143
+3,Aladdin,588,143
+4,Charlie's Angels,3977,143
+5,"Sixth Sense, The",2762,143
+6,Dances with Wolves,590,143
+7,Ocean's Eleven,4963,143
+8,While You Were Sleeping,339,143
+9,"Beautiful Mind, A",4995,143
+10,Forrest Gump,356,143
+0,"Princess Bride, The",1197,144
+1,Space Jam,673,144
+2,Con Air,1552,144
+3,Batman Returns,1377,144
+4,"Wedding Singer, The",1777,144
+5,Stargate,316,144
+6,"Clockwork Orange, A",1206,144
+7,Casper,158,144
+8,"Rocky Horror Picture Show, The",2657,144
+9,Life Is Beautiful (La Vita è bella),2324,144
+10,"Truth About Cats & Dogs, The",708,144
+0,Tombstone,553,149
+1,Bridget Jones's Diary,4246,149
+2,E.T. the Extra-Terrestrial,1097,149
+3,Planet of the Apes,2529,149
+4,Apocalypse Now,1208,149
+5,"South Park: Bigger, Longer and Uncut",2700,149
+6,Star Wars: Episode I - The Phantom Menace,2628,149
+7,Forrest Gump,356,149
+8,Star Wars: Episode VI - Return of the Jedi,1210,149
+9,Dead Man Walking,36,149
+10,Lethal Weapon,2000,149
+0,Mission: Impossible,648,151
+1,"Goonies, The",2005,151
+2,GoldenEye,10,151
+3,Coneheads,435,151
+4,Get Shorty,21,151
+5,First Knight,168,151
+6,"Silence of the Lambs, The",593,151
+7,Dances with Wolves,590,151
+8,Edward Scissorhands,2291,151
+9,Big,2797,151
+10,Star Wars: Episode V - The Empire Strikes Back,1196,151
+0,Hook,3489,152
+1,Dead Man Walking,36,152
+2,Edward Scissorhands,2291,152
+3,Erin Brockovich,3408,152
+4,Fantasia,1282,152
+5,Tommy Boy,333,152
+6,Léon: The Professional (a.k.a. The Professional) (Léon),293,152
+7,Almost Famous,3897,152
+8,"Lock, Stock & Two Smoking Barrels",2542,152
+9,"Honey, I Shrunk the Kids",2054,152
+10,Indiana Jones and the Temple of Doom,2115,152
+0,Schindler's List,527,153
+1,Fargo,608,153
+2,Batman,592,153
+3,Back to the Future,1270,153
+4,"Truman Show, The",1682,153
+5,Get Shorty,21,153
+6,Butch Cassidy and the Sundance Kid,1304,153
+7,Young Frankenstein,1278,153
+8,Shrek,4306,153
+9,Tombstone,553,153
+10,Armageddon,1917,153
+0,"Wizard of Oz, The",919,156
+1,"Rocky Horror Picture Show, The",2657,156
+2,Twister,736,156
+3,Get Shorty,21,156
+4,Apocalypse Now,1208,156
+5,North by Northwest,908,156
+6,Independence Day (a.k.a. ID4),780,156
+7,Fargo,608,156
+8,Run Lola Run (Lola rennt),2692,156
+9,Tombstone,553,156
+10,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,156
+0,Schindler's List,527,159
+1,"Silence of the Lambs, The",593,159
+2,Grosse Pointe Blank,1500,159
+3,"Abyss, The",1127,159
+4,"Matrix, The",2571,159
+5,"Rocky Horror Picture Show, The",2657,159
+6,Star Wars: Episode V - The Empire Strikes Back,1196,159
+7,Tommy Boy,333,159
+8,Tombstone,553,159
+9,Austin Powers: The Spy Who Shagged Me,2683,159
+10,Monty Python and the Holy Grail,1136,159
+0,Donnie Brasco,1466,160
+1,Life Is Beautiful (La Vita è bella),2324,160
+2,High Fidelity,3481,160
+3,"Three Musketeers, The",552,160
+4,Romancing the Stone,2406,160
+5,"Truth About Cats & Dogs, The",708,160
+6,Rear Window,904,160
+7,Fargo,608,160
+8,Willy Wonka & the Chocolate Factory,1073,160
+9,Enemy of the State,2353,160
+10,"Rock, The",733,160
+0,Tombstone,553,165
+1,Batman,592,165
+2,Rear Window,904,165
+3,Planet of the Apes,2529,165
+4,"Wedding Singer, The",1777,165
+5,Clear and Present Danger,349,165
+6,Hot Shots! Part Deux,466,165
+7,Die Hard: With a Vengeance,165,165
+8,Fantasia,1282,165
+9,Tron,2105,165
+10,"Piano, The",509,165
+0,Citizen Kane,923,166
+1,Disclosure,225,166
+2,Monty Python's Life of Brian,1080,166
+3,Rushmore,2395,166
+4,Dogma,3052,166
+5,Indiana Jones and the Last Crusade,1291,166
+6,"Rock, The",733,166
+7,"Silence of the Lambs, The",593,166
+8,Spaceballs,3033,166
+9,Donnie Brasco,1466,166
+10,Batman,592,166
+0,"Princess Bride, The",1197,167
+1,Spaceballs,3033,167
+2,Fargo,608,167
+3,"Wedding Singer, The",1777,167
+4,"Rock, The",733,167
+5,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,167
+6,Rear Window,904,167
+7,Beauty and the Beast,595,167
+8,Monty Python's Life of Brian,1080,167
+9,Sabrina,7,167
+10,Space Jam,673,167
+0,"Client, The",350,168
+1,Butch Cassidy and the Sundance Kid,1304,168
+2,What's Eating Gilbert Grape,337,168
+3,"O Brother, Where Art Thou?",4027,168
+4,Dances with Wolves,590,168
+5,"Big Lebowski, The",1732,168
+6,Pulp Fiction,296,168
+7,"Silence of the Lambs, The",593,168
+8,GoldenEye,10,168
+9,Maverick,368,168
+10,"Jungle Book, The",2078,168
+0,"Mask, The",367,169
+1,Apocalypse Now,1208,169
+2,Dave,440,169
+3,Run Lola Run (Lola rennt),2692,169
+4,Some Like It Hot,910,169
+5,"Rock, The",733,169
+6,Jurassic Park,480,169
+7,American Beauty,2858,169
+8,Groundhog Day,1265,169
+9,Casablanca,912,169
+10,"Few Good Men, A",2268,169
+0,Good Will Hunting,1704,171
+1,Magnolia,3160,171
+2,E.T. the Extra-Terrestrial,1097,171
+3,Dead Man Walking,36,171
+4,Batman,592,171
+5,Men in Black (a.k.a. MIB),1580,171
+6,Monty Python and the Holy Grail,1136,171
+7,Grosse Pointe Blank,1500,171
+8,Saving Private Ryan,2028,171
+9,Run Lola Run (Lola rennt),2692,171
+10,"Rock, The",733,171
+0,High Fidelity,3481,174
+1,Stargate,316,174
+2,Full Metal Jacket,1222,174
+3,Back to the Future Part III,2012,174
+4,Twelve Monkeys (a.k.a. 12 Monkeys),32,174
+5,Clear and Present Danger,349,174
+6,"Breakfast Club, The",1968,174
+7,Men in Black (a.k.a. MIB),1580,174
+8,Tron,2105,174
+9,There's Something About Mary,1923,174
+10,"Shining, The",1258,174
+0,Indiana Jones and the Temple of Doom,2115,178
+1,"Three Musketeers, The",552,178
+2,Goodfellas,1213,178
+3,Twister,736,178
+4,Platoon,1090,178
+5,Crocodile Dundee,2470,178
+6,Happy Gilmore,104,178
+7,Rocky,1954,178
+8,Braveheart,110,178
+9,Psycho,1219,178
+10,Independence Day (a.k.a. ID4),780,178
+0,Goodfellas,1213,179
+1,Enemy of the State,2353,179
+2,Mission: Impossible,648,179
+3,"Wedding Singer, The",1777,179
+4,"Mummy, The",2617,179
+5,"Three Musketeers, The",552,179
+6,Austin Powers: International Man of Mystery,1517,179
+7,Back to the Future Part III,2012,179
+8,"Full Monty, The",1641,179
+9,"Matrix, The",2571,179
+10,"Game, The",1625,179
+0,Psycho,1219,181
+1,"Honey, I Shrunk the Kids",2054,181
+2,Predator,3527,181
+3,Lethal Weapon,2000,181
+4,"Rock, The",733,181
+5,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",3996,181
+6,"Big Lebowski, The",1732,181
+7,Romancing the Stone,2406,181
+8,Full Metal Jacket,1222,181
+9,Star Wars: Episode IV - A New Hope,260,181
+10,Face/Off,1573,181
+0,"Three Musketeers, The",552,183
+1,Monty Python and the Holy Grail,1136,183
+2,"Lock, Stock & Two Smoking Barrels",2542,183
+3,Monty Python's Life of Brian,1080,183
+4,"Wedding Singer, The",1777,183
+5,Being John Malkovich,2997,183
+6,Apollo 13,150,183
+7,Erin Brockovich,3408,183
+8,Star Wars: Episode IV - A New Hope,260,183
+9,Broken Arrow,95,183
+10,"Lion King, The",364,183
+0,Skyfall,96079,184
+1,Apollo 13,150,184
+2,Notting Hill,2671,184
+3,Broken Arrow,95,184
+4,Harry Potter and the Half-Blood Prince,69844,184
+5,"Matrix Reloaded, The",6365,184
+6,"Dark Knight Rises, The",91529,184
+7,"Grand Budapest Hotel, The",109374,184
+8,"King's Speech, The",81845,184
+9,X-Men: The Last Stand,45499,184
+10,American Beauty,2858,184
+0,Space Jam,673,186
+1,Dumb & Dumber (Dumb and Dumber),231,186
+2,"Princess Bride, The",1197,186
+3,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,186
+4,Monty Python's Life of Brian,1080,186
+5,Maverick,368,186
+6,"O Brother, Where Art Thou?",4027,186
+7,Election,2599,186
+8,Schindler's List,527,186
+9,"Client, The",350,186
+10,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",3996,186
+0,Platoon,1090,187
+1,Stargate,316,187
+2,E.T. the Extra-Terrestrial,1097,187
+3,"Rock, The",733,187
+4,Austin Powers: International Man of Mystery,1517,187
+5,Batman,592,187
+6,Galaxy Quest,3175,187
+7,Forrest Gump,356,187
+8,"Fugitive, The",457,187
+9,Pulp Fiction,296,187
+10,Erin Brockovich,3408,187
+0,A.I. Artificial Intelligence,4370,190
+1,Unbreakable,3994,190
+2,Pinocchio,596,190
+3,Spider-Man 2,8636,190
+4,Star Wars: Episode III - Revenge of the Sith,33493,190
+5,Spirited Away (Sen to Chihiro no kamikakushi),5618,190
+6,"Beautiful Mind, A",4995,190
+7,Casino Royale,49272,190
+8,Gladiator,3578,190
+9,"Lord of the Rings: The Two Towers, The",5952,190
+10,Ocean's Eleven,4963,190
+0,"Mask, The",367,191
+1,"Honey, I Shrunk the Kids",2054,191
+2,Sabrina,7,191
+3,While You Were Sleeping,339,191
+4,American History X,2329,191
+5,Mrs. Doubtfire,500,191
+6,Young Frankenstein,1278,191
+7,Star Wars: Episode I - The Phantom Menace,2628,191
+8,Reservoir Dogs,1089,191
+9,Total Recall,2916,191
+10,"Rock, The",733,191
+0,"Fugitive, The",457,195
+1,Apocalypse Now,1208,195
+2,"Shawshank Redemption, The",318,195
+3,Star Wars: Episode VI - Return of the Jedi,1210,195
+4,Platoon,1090,195
+5,Monty Python's Life of Brian,1080,195
+6,Cliffhanger,434,195
+7,Sleepless in Seattle,539,195
+8,"Wedding Singer, The",1777,195
+9,High Fidelity,3481,195
+10,"Shining, The",1258,195
+0,Men in Black (a.k.a. MIB),1580,198
+1,Monty Python's Life of Brian,1080,198
+2,"Blues Brothers, The",1220,198
+3,"Rock, The",733,198
+4,"Usual Suspects, The",50,198
+5,"Silence of the Lambs, The",593,198
+6,"Jungle Book, The",2078,198
+7,North by Northwest,908,198
+8,Big,2797,198
+9,"Fish Called Wanda, A",1079,198
+10,Dumb & Dumber (Dumb and Dumber),231,198
+0,Hook,3489,199
+1,Fantasia,1282,199
+2,Jumanji,2,199
+3,Fargo,608,199
+4,"Shining, The",1258,199
+5,"South Park: Bigger, Longer and Uncut",2700,199
+6,Mr. Holland's Opus,62,199
+7,Apocalypse Now,1208,199
+8,Groundhog Day,1265,199
+9,"Wizard of Oz, The",919,199
+10,Austin Powers: International Man of Mystery,1517,199
+0,Forrest Gump,356,200
+1,Con Air,1552,200
+2,Monty Python's Life of Brian,1080,200
+3,Back to the Future,1270,200
+4,"Fugitive, The",457,200
+5,"Jungle Book, The",2078,200
+6,Space Jam,673,200
+7,Young Frankenstein,1278,200
+8,Gladiator,3578,200
+9,Beetlejuice,2174,200
+10,Butch Cassidy and the Sundance Kid,1304,200
+0,Mars Attacks!,1391,201
+1,Con Air,1552,201
+2,"Clockwork Orange, A",1206,201
+3,"Big Lebowski, The",1732,201
+4,Goldfinger,2947,201
+5,Schindler's List,527,201
+6,GoldenEye,10,201
+7,Batman Returns,1377,201
+8,Run Lola Run (Lola rennt),2692,201
+9,Bridget Jones's Diary,4246,201
+10,"Blues Brothers, The",1220,201
+0,12 Angry Men,1203,202
+1,Pinocchio,596,202
+2,Jurassic Park,480,202
+3,Sleepless in Seattle,539,202
+4,RoboCop,2985,202
+5,Platoon,1090,202
+6,Mission: Impossible,648,202
+7,"Three Musketeers, The",552,202
+8,Monty Python and the Holy Grail,1136,202
+9,Being John Malkovich,2997,202
+10,Romancing the Stone,2406,202
+0,Indiana Jones and the Last Crusade,1291,204
+1,Young Frankenstein,1278,204
+2,Planet of the Apes,2529,204
+3,Platoon,1090,204
+4,Traffic,4034,204
+5,Dead Poets Society,1246,204
+6,Dances with Wolves,590,204
+7,Reservoir Dogs,1089,204
+8,Star Wars: Episode VI - Return of the Jedi,1210,204
+9,Clear and Present Danger,349,204
+10,Desperado,163,204
+0,Back to the Future,1270,210
+1,Life Is Beautiful (La Vita è bella),2324,210
+2,"Lord of the Rings: The Fellowship of the Ring, The",4993,210
+3,X-Men: The Last Stand,45499,210
+4,Dances with Wolves,590,210
+5,Robin Hood: Men in Tights,520,210
+6,"Mask, The",367,210
+7,There's Something About Mary,1923,210
+8,Erin Brockovich,3408,210
+9,Eyes Wide Shut,2712,210
+10,Rocky,1954,210
+0,Indiana Jones and the Last Crusade,1291,211
+1,"Three Musketeers, The",552,211
+2,Star Wars: Episode V - The Empire Strikes Back,1196,211
+3,Life Is Beautiful (La Vita è bella),2324,211
+4,Shrek,4306,211
+5,"Big Lebowski, The",1732,211
+6,Dances with Wolves,590,211
+7,Dave,440,211
+8,Good Will Hunting,1704,211
+9,"Sixth Sense, The",2762,211
+10,Desperado,163,211
+0,"Three Musketeers, The",552,212
+1,"Truth About Cats & Dogs, The",708,212
+2,Beauty and the Beast,595,212
+3,Psycho,1219,212
+4,"Birdcage, The",141,212
+5,Natural Born Killers,288,212
+6,Brazil,1199,212
+7,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),4896,212
+8,Back to the Future,1270,212
+9,Fargo,608,212
+10,"Princess Bride, The",1197,212
 0,Shrek 2,8360,213
 1,"Beautiful Mind, A",4995,213
 2,Enemy of the State,2353,213
@@ -10,6 +1308,1040 @@
 8,"Goonies, The",2005,213
 9,Gladiator,3578,213
 10,Best in Show,3911,213
+0,"Blues Brothers, The",1220,215
+1,Apollo 13,150,215
+2,Braveheart,110,215
+3,Fantasia,1282,215
+4,Hot Shots! Part Deux,466,215
+5,Rushmore,2395,215
+6,Mission: Impossible,648,215
+7,"Wizard of Oz, The",919,215
+8,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,215
+9,"Princess Bride, The",1197,215
+10,Star Wars: Episode V - The Empire Strikes Back,1196,215
+0,Young Frankenstein,1278,216
+1,Best in Show,3911,216
+2,"Jungle Book, The",2078,216
+3,"Big Lebowski, The",1732,216
+4,"Big Lebowski, The",1732,216
+5,Batman,592,216
+6,There's Something About Mary,1923,216
+7,Babe,34,216
+8,Wayne's World,3253,216
+9,Happy Gilmore,104,216
+10,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),4896,216
+0,Stargate,316,220
+1,Monty Python's Life of Brian,1080,220
+2,Dead Man Walking,36,220
+3,Dumb & Dumber (Dumb and Dumber),231,220
+4,Psycho,1219,220
+5,Aladdin,588,220
+6,Rushmore,2395,220
+7,Space Jam,673,220
+8,Reservoir Dogs,1089,220
+9,Dances with Wolves,590,220
+10,Groundhog Day,1265,220
+0,Rear Window,904,221
+1,"Abyss, The",1127,221
+2,Mars Attacks!,1391,221
+3,Twister,736,221
+4,Mission: Impossible,648,221
+5,Dogma,3052,221
+6,"Blues Brothers, The",1220,221
+7,Batman Returns,1377,221
+8,Star Wars: Episode V - The Empire Strikes Back,1196,221
+9,Legends of the Fall,266,221
+10,"Mask, The",367,221
+0,"Fugitive, The",457,222
+1,"Silence of the Lambs, The",593,222
+2,Jurassic Park,480,222
+3,"Hunt for Red October, The",1610,222
+4,Star Wars: Episode VI - Return of the Jedi,1210,222
+5,Dead Man Walking,36,222
+6,"Honey, I Shrunk the Kids",2054,222
+7,Dead Poets Society,1246,222
+8,Groundhog Day,1265,222
+9,Psycho,1219,222
+10,Independence Day (a.k.a. ID4),780,222
+0,Snow White and the Seven Dwarfs,594,223
+1,"Blues Brothers, The",1220,223
+2,"Blues Brothers, The",1220,223
+3,Stargate,316,223
+4,Dead Poets Society,1246,223
+5,Die Hard: With a Vengeance,165,223
+6,Desperado,163,223
+7,Monty Python and the Holy Grail,1136,223
+8,Independence Day (a.k.a. ID4),780,223
+9,Enemy of the State,2353,223
+10,Fantasia,1282,223
+0,Maverick,368,224
+1,"Crow, The",353,224
+2,Total Recall,2916,224
+3,Grosse Pointe Blank,1500,224
+4,Batman Returns,1377,224
+5,"Lion King, The",364,224
+6,"Matrix, The",2571,224
+7,"Sixth Sense, The",2762,224
+8,Austin Powers: International Man of Mystery,1517,224
+9,Romancing the Stone,2406,224
+10,Dances with Wolves,590,224
+0,Galaxy Quest,3175,225
+1,Leaving Las Vegas,25,225
+2,Erin Brockovich,3408,225
+3,Interview with the Vampire: The Vampire Chronicles,253,225
+4,"Wizard of Oz, The",919,225
+5,Magnolia,3160,225
+6,"Few Good Men, A",2268,225
+7,"Santa Clause, The",317,225
+8,Four Weddings and a Funeral,357,225
+9,Seven (a.k.a. Se7en),47,225
+10,Ed Wood,235,225
+0,As Good as It Gets,1784,227
+1,Bridget Jones's Diary,4246,227
+2,Beauty and the Beast,595,227
+3,Fantasia,1282,227
+4,"Jungle Book, The",2078,227
+5,Monty Python's Life of Brian,1080,227
+6,"Monsters, Inc.",4886,227
+7,Beetlejuice,2174,227
+8,Indiana Jones and the Last Crusade,1291,227
+9,Total Recall,2916,227
+10,True Lies,380,227
+0,"Terminator, The",1240,229
+1,Saving Private Ryan,2028,229
+2,Beetlejuice,2174,229
+3,"Wizard of Oz, The",919,229
+4,Clear and Present Danger,349,229
+5,Planet of the Apes,2529,229
+6,Indiana Jones and the Temple of Doom,2115,229
+7,"Jungle Book, The",2078,229
+8,Groundhog Day,1265,229
+9,Lethal Weapon,2000,229
+10,"Sixth Sense, The",2762,229
+0,Blow,4239,230
+1,"Princess Bride, The",1197,230
+2,True Lies,380,230
+3,"Big Lebowski, The",1732,230
+4,Schindler's List,527,230
+5,Batman,592,230
+6,"Shining, The",1258,230
+7,Austin Powers: International Man of Mystery,1517,230
+8,Beauty and the Beast,595,230
+9,Monty Python's Life of Brian,1080,230
+10,Beetlejuice,2174,230
+0,Batman,592,233
+1,Willy Wonka & the Chocolate Factory,1073,233
+2,Mission: Impossible,648,233
+3,"Blues Brothers, The",1220,233
+4,"American President, The",11,233
+5,Pretty Woman,597,233
+6,Psycho,1219,233
+7,Goodfellas,1213,233
+8,Forrest Gump,356,233
+9,2001: A Space Odyssey,924,233
+10,Philadelphia,508,233
+0,"Fugitive, The",457,234
+1,Austin Powers: International Man of Mystery,1517,234
+2,Twister,736,234
+3,Apocalypse Now,1208,234
+4,Goodfellas,1213,234
+5,Mrs. Doubtfire,500,234
+6,"South Park: Bigger, Longer and Uncut",2700,234
+7,"Terminator, The",1240,234
+8,High Fidelity,3481,234
+9,Grosse Pointe Blank,1500,234
+10,Men in Black (a.k.a. MIB),1580,234
+0,Full Metal Jacket,1222,235
+1,Tron,2105,235
+2,Back to the Future Part III,2012,235
+3,Independence Day (a.k.a. ID4),780,235
+4,Rocky,1954,235
+5,L.A. Confidential,1617,235
+6,Gladiator,3578,235
+7,Jumanji,2,235
+8,Office Space,2502,235
+9,"Full Monty, The",1641,235
+10,"Silence of the Lambs, The",593,235
+0,Spaceballs,3033,239
+1,Star Wars: Episode I - The Phantom Menace,2628,239
+2,"Truth About Cats & Dogs, The",708,239
+3,Run Lola Run (Lola rennt),2692,239
+4,"Princess Bride, The",1197,239
+5,Mission: Impossible,648,239
+6,Fantasia,1282,239
+7,Tombstone,553,239
+8,Monty Python and the Holy Grail,1136,239
+9,Election,2599,239
+10,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,239
+0,Dumb & Dumber (Dumb and Dumber),231,240
+1,Apocalypse Now,1208,240
+2,L.A. Confidential,1617,240
+3,Ed Wood,235,240
+4,Pinocchio,596,240
+5,Starship Troopers,1676,240
+6,Edward Scissorhands,2291,240
+7,Indiana Jones and the Last Crusade,1291,240
+8,Men in Black (a.k.a. MIB),1580,240
+9,Lethal Weapon,2000,240
+10,"Client, The",350,240
+0,Grosse Pointe Blank,1500,241
+1,Memento,4226,241
+2,Tombstone,553,241
+3,Tombstone,553,241
+4,Con Air,1552,241
+5,Edward Scissorhands,2291,241
+6,Braveheart,110,241
+7,Blow,4239,241
+8,"Goonies, The",2005,241
+9,Rushmore,2395,241
+10,Star Wars: Episode V - The Empire Strikes Back,1196,241
+0,Mrs. Doubtfire,500,244
+1,Alien,1214,244
+2,Indiana Jones and the Last Crusade,1291,244
+3,Pinocchio,596,244
+4,"Wedding Singer, The",1777,244
+5,"Blues Brothers, The",1220,244
+6,This Is Spinal Tap,1288,244
+7,Ace Ventura: When Nature Calls,19,244
+8,Congo,160,244
+9,Grosse Pointe Blank,1500,244
+10,Star Wars: Episode V - The Empire Strikes Back,1196,244
+0,Mrs. Doubtfire,500,246
+1,Ghost,587,246
+2,Waterworld,208,246
+3,Star Wars: Episode VI - Return of the Jedi,1210,246
+4,"Hunt for Red October, The",1610,246
+5,Back to the Future,1270,246
+6,Reservoir Dogs,1089,246
+7,Rushmore,2395,246
+8,Disclosure,225,246
+9,Platoon,1090,246
+10,Run Lola Run (Lola rennt),2692,246
+0,"Lion King, The",364,247
+1,Coneheads,435,247
+2,Sleepless in Seattle,539,247
+3,Monty Python and the Holy Grail,1136,247
+4,Being John Malkovich,2997,247
+5,"Truth About Cats & Dogs, The",708,247
+6,High Fidelity,3481,247
+7,"Usual Suspects, The",50,247
+8,Mission: Impossible,648,247
+9,Sabrina,7,247
+10,Rear Window,904,247
+0,Rocky,1954,248
+1,Tombstone,553,248
+2,Harry Potter and the Prisoner of Azkaban,8368,248
+3,Unbreakable,3994,248
+4,"Last Samurai, The",7143,248
+5,True Lies,380,248
+6,Ghost,587,248
+7,Airplane!,2791,248
+8,X-Men,3793,248
+9,Gladiator,3578,248
+10,"Lord of the Rings: The Fellowship of the Ring, The",4993,248
+0,"Fugitive, The",457,254
+1,"Clockwork Orange, A",1206,254
+2,Twister,736,254
+3,Clear and Present Danger,349,254
+4,Blow,4239,254
+5,Jumanji,2,254
+6,Brazil,1199,254
+7,Star Wars: Episode VI - Return of the Jedi,1210,254
+8,Saving Private Ryan,2028,254
+9,Dances with Wolves,590,254
+10,"Rock, The",733,254
+0,Star Wars: Episode II - Attack of the Clones,5378,256
+1,Maverick,368,256
+2,Robin Hood: Men in Tights,520,256
+3,American Beauty,2858,256
+4,Enemy of the State,2353,256
+5,What Women Want,4018,256
+6,Wild Wild West,2701,256
+7,Austin Powers: International Man of Mystery,1517,256
+8,2001: A Space Odyssey,924,256
+9,Batman Begins,33794,256
+10,Life Is Beautiful (La Vita è bella),2324,256
+0,"Three Musketeers, The",552,260
+1,"Matrix, The",2571,260
+2,Young Frankenstein,1278,260
+3,Indiana Jones and the Last Crusade,1291,260
+4,Blazing Saddles,3671,260
+5,First Knight,168,260
+6,"Honey, I Shrunk the Kids",2054,260
+7,"Abyss, The",1127,260
+8,"Princess Bride, The",1197,260
+9,Braveheart,110,260
+10,Wayne's World,3253,260
+0,"Three Musketeers, The",552,261
+1,American Beauty,2858,261
+2,Austin Powers: The Spy Who Shagged Me,2683,261
+3,"Lord of the Rings: The Two Towers, The",5952,261
+4,Psycho,1219,261
+5,Four Weddings and a Funeral,357,261
+6,Forrest Gump,356,261
+7,Monty Python and the Holy Grail,1136,261
+8,"Matrix Reloaded, The",6365,261
+9,Big,2797,261
+10,Men in Black (a.k.a. MIB),1580,261
+0,"Abyss, The",1127,262
+1,Run Lola Run (Lola rennt),2692,262
+2,Memento,4226,262
+3,Batman Returns,1377,262
+4,Austin Powers: International Man of Mystery,1517,262
+5,Romancing the Stone,2406,262
+6,Psycho,1219,262
+7,E.T. the Extra-Terrestrial,1097,262
+8,Stargate,316,262
+9,Eyes Wide Shut,2712,262
+10,"Silence of the Lambs, The",593,262
+0,Psycho,1219,263
+1,Pulp Fiction,296,263
+2,Addams Family Values,410,263
+3,Independence Day (a.k.a. ID4),780,263
+4,Star Wars: Episode I - The Phantom Menace,2628,263
+5,"Fugitive, The",457,263
+6,"Game, The",1625,263
+7,Almost Famous,3897,263
+8,"Princess Bride, The",1197,263
+9,Full Metal Jacket,1222,263
+10,"Wizard of Oz, The",919,263
+0,Jurassic Park,480,264
+1,Jurassic Park,480,264
+2,"Terminator, The",1240,264
+3,Erin Brockovich,3408,264
+4,"Santa Clause, The",317,264
+5,Romancing the Stone,2406,264
+6,Young Frankenstein,1278,264
+7,Apocalypse Now,1208,264
+8,Planet of the Apes,2529,264
+9,Harry Potter and the Prisoner of Azkaban,8368,264
+10,Schindler's List,527,264
+0,Willy Wonka & the Chocolate Factory,1073,265
+1,"Fugitive, The",457,265
+2,Indiana Jones and the Last Crusade,1291,265
+3,"Rock, The",733,265
+4,Citizen Kane,923,265
+5,Star Wars: Episode V - The Empire Strikes Back,1196,265
+6,Face/Off,1573,265
+7,12 Angry Men,1203,265
+8,Indiana Jones and the Last Crusade,1291,265
+9,L.A. Confidential,1617,265
+10,This Is Spinal Tap,1288,265
+0,Pulp Fiction,296,266
+1,Austin Powers: International Man of Mystery,1517,266
+2,Fargo,608,266
+3,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,266
+4,Casablanca,912,266
+5,Monty Python and the Holy Grail,1136,266
+6,Fantasia,1282,266
+7,Get Shorty,21,266
+8,Mission: Impossible,648,266
+9,Dances with Wolves,590,266
+10,Citizen Kane,923,266
+0,Groundhog Day,1265,267
+1,What's Eating Gilbert Grape,337,267
+2,Terminator 2: Judgment Day,589,267
+3,Dances with Wolves,590,267
+4,"Clockwork Orange, A",1206,267
+5,Monty Python's Life of Brian,1080,267
+6,L.A. Confidential,1617,267
+7,Young Frankenstein,1278,267
+8,"Jungle Book, The",2078,267
+9,There's Something About Mary,1923,267
+10,Starship Troopers,1676,267
+0,"Three Musketeers, The",552,268
+1,Full Metal Jacket,1222,268
+2,Election,2599,268
+3,Die Hard: With a Vengeance,165,268
+4,"Shining, The",1258,268
+5,Get Shorty,21,268
+6,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),4896,268
+7,Apocalypse Now,1208,268
+8,Star Wars: Episode I - The Phantom Menace,2628,268
+9,Butch Cassidy and the Sundance Kid,1304,268
+10,Beetlejuice,2174,268
+0,Best in Show,3911,273
+1,"Few Good Men, A",2268,273
+2,Willy Wonka & the Chocolate Factory,1073,273
+3,Hook,3489,273
+4,Back to the Future Part III,2012,273
+5,"Big Lebowski, The",1732,273
+6,"Matrix, The",2571,273
+7,Mission: Impossible,648,273
+8,Twelve Monkeys (a.k.a. 12 Monkeys),32,273
+9,From Dusk Till Dawn,70,273
+10,Groundhog Day,1265,273
+0,Reservoir Dogs,1089,275
+1,Mars Attacks!,1391,275
+2,Dogma,3052,275
+3,Independence Day (a.k.a. ID4),780,275
+4,This Is Spinal Tap,1288,275
+5,Babe,34,275
+6,Indiana Jones and the Last Crusade,1291,275
+7,"Wizard of Oz, The",919,275
+8,Groundhog Day,1265,275
+9,Planet of the Apes,2529,275
+10,Star Wars: Episode I - The Phantom Menace,2628,275
+0,Hot Shots! Part Deux,466,279
+1,Seven (a.k.a. Se7en),47,279
+2,Dances with Wolves,590,279
+3,"Clockwork Orange, A",1206,279
+4,Star Wars: Episode IV - A New Hope,260,279
+5,"Wedding Singer, The",1777,279
+6,Monty Python's Life of Brian,1080,279
+7,Traffic,4034,279
+8,"Fish Called Wanda, A",1079,279
+9,Moulin Rouge,4308,279
+10,Willy Wonka & the Chocolate Factory,1073,279
+0,Mrs. Doubtfire,500,280
+1,Top Gun,1101,280
+2,Young Frankenstein,1278,280
+3,There's Something About Mary,1923,280
+4,Aladdin,588,280
+5,"Birdcage, The",141,280
+6,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2),5459,280
+7,"Big Lebowski, The",1732,280
+8,"Three Musketeers, The",552,280
+9,Starship Troopers,1676,280
+10,Austin Powers: The Spy Who Shagged Me,2683,280
+0,Platoon,1090,282
+1,"Green Mile, The",3147,282
+2,This Is Spinal Tap,1288,282
+3,Forrest Gump,356,282
+4,Dogma,3052,282
+5,Donnie Brasco,1466,282
+6,Get Shorty,21,282
+7,First Knight,168,282
+8,E.T. the Extra-Terrestrial,1097,282
+9,Young Frankenstein,1278,282
+10,American Beauty,2858,282
+0,Dumb & Dumber (Dumb and Dumber),231,284
+1,Psycho,1219,284
+2,"Honey, I Shrunk the Kids",2054,284
+3,"Big Lebowski, The",1732,284
+4,"Rock, The",733,284
+5,Lethal Weapon,2000,284
+6,Romancing the Stone,2406,284
+7,Blazing Saddles,3671,284
+8,"Sixth Sense, The",2762,284
+9,"Matrix, The",2571,284
+10,Face/Off,1573,284
+0,"Terminator, The",1240,286
+1,Dances with Wolves,590,286
+2,Blow,4239,286
+3,Jurassic Park,480,286
+4,Goodfellas,1213,286
+5,12 Angry Men,1203,286
+6,Jurassic Park,480,286
+7,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),4896,286
+8,Rocky,1954,286
+9,"Shining, The",1258,286
+10,Psycho,1219,286
+0,"Shining, The",1258,287
+1,"Three Musketeers, The",552,287
+2,"Princess Bride, The",1197,287
+3,Starship Troopers,1676,287
+4,Moulin Rouge,4308,287
+5,Heat,6,287
+6,Grosse Pointe Blank,1500,287
+7,Toy Story,1,287
+8,"Silence of the Lambs, The",593,287
+9,Casablanca,912,287
+10,Snow White and the Seven Dwarfs,594,287
+0,Moulin Rouge,4308,290
+1,Goodfellas,1213,290
+2,Star Wars: Episode V - The Empire Strikes Back,1196,290
+3,Memento,4226,290
+4,Face/Off,1573,290
+5,Space Jam,673,290
+6,"Terminator, The",1240,290
+7,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,290
+8,Batman Returns,1377,290
+9,L.A. Confidential,1617,290
+10,Brazil,1199,290
+0,"Usual Suspects, The",50,292
+1,"Green Mile, The",3147,292
+2,Indiana Jones and the Last Crusade,1291,292
+3,Dogma,3052,292
+4,Blow,4239,292
+5,"Terminator, The",1240,292
+6,Apocalypse Now,1208,292
+7,Batman,592,292
+8,Reservoir Dogs,1089,292
+9,"Big Lebowski, The",1732,292
+10,Predator,3527,292
+0,Ed Wood,235,294
+1,Rocky,1954,294
+2,Get Shorty,21,294
+3,North by Northwest,908,294
+4,Star Wars: Episode V - The Empire Strikes Back,1196,294
+5,Tombstone,553,294
+6,Twelve Monkeys (a.k.a. 12 Monkeys),32,294
+7,Stand by Me,1259,294
+8,Citizen Kane,923,294
+9,Blazing Saddles,3671,294
+10,Grumpier Old Men,3,294
+0,Memento,4226,297
+1,Groundhog Day,1265,297
+2,Reservoir Dogs,1089,297
+3,Back to the Future,1270,297
+4,"Lock, Stock & Two Smoking Barrels",2542,297
+5,"Honey, I Shrunk the Kids",2054,297
+6,Romancing the Stone,2406,297
+7,"Fugitive, The",457,297
+8,Rushmore,2395,297
+9,Beetlejuice,2174,297
+10,Ghostbusters (a.k.a. Ghost Busters),2716,297
+0,Clear and Present Danger,349,301
+1,Indiana Jones and the Temple of Doom,2115,301
+2,Goodfellas,1213,301
+3,Twister,736,301
+4,Get Shorty,21,301
+5,Willy Wonka & the Chocolate Factory,1073,301
+6,"Rock, The",733,301
+7,E.T. the Extra-Terrestrial,1097,301
+8,Psycho,1219,301
+9,"Usual Suspects, The",50,301
+10,Rocky,1954,301
+0,Dances with Wolves,590,303
+1,Erin Brockovich,3408,303
+2,Back to the Future Part III,2012,303
+3,Braveheart,110,303
+4,Groundhog Day,1265,303
+5,Airplane!,2791,303
+6,Romancing the Stone,2406,303
+7,"Jungle Book, The",2078,303
+8,Twelve Monkeys (a.k.a. 12 Monkeys),32,303
+9,"Big Lebowski, The",1732,303
+10,Monty Python's Life of Brian,1080,303
+0,"Terminator, The",1240,304
+1,"Silence of the Lambs, The",593,304
+2,"Blues Brothers, The",1220,304
+3,"Princess Bride, The",1197,304
+4,Men in Black (a.k.a. MIB),1580,304
+5,Austin Powers: International Man of Mystery,1517,304
+6,Clear and Present Danger,349,304
+7,Alien,1214,304
+8,"Princess Bride, The",1197,304
+9,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,304
+10,Blazing Saddles,3671,304
+0,"King's Speech, The",81845,306
+1,"Grand Budapest Hotel, The",109374,306
+2,Pretty Woman,597,306
+3,Interstellar,109487,306
+4,Broken Arrow,95,306
+5,"Graduate, The",1247,306
+6,"Matrix, The",2571,306
+7,Skyfall,96079,306
+8,"Lord of the Rings: The Two Towers, The",5952,306
+9,Harry Potter and the Half-Blood Prince,69844,306
+10,Up,68954,306
+0,Independence Day (a.k.a. ID4),780,308
+1,"Terminator, The",1240,308
+2,"Mask, The",367,308
+3,Disclosure,225,308
+4,Mars Attacks!,1391,308
+5,Jurassic Park,480,308
+6,Back to the Future Part III,2012,308
+7,Independence Day (a.k.a. ID4),780,308
+8,Moulin Rouge,4308,308
+9,Butch Cassidy and the Sundance Kid,1304,308
+10,"Mummy, The",2617,308
+0,Life Is Beautiful (La Vita è bella),2324,309
+1,Psycho,1219,309
+2,"Beautiful Mind, A",4995,309
+3,"Abyss, The",1127,309
+4,Ace Ventura: Pet Detective,344,309
+5,Tombstone,553,309
+6,"Wedding Singer, The",1777,309
+7,Monty Python and the Holy Grail,1136,309
+8,Alien,1214,309
+9,Tommy Boy,333,309
+10,Total Recall,2916,309
+0,Bridget Jones's Diary,4246,310
+1,Spaceballs,3033,310
+2,There's Something About Mary,1923,310
+3,Airplane!,2791,310
+4,Harry Potter and the Prisoner of Azkaban,8368,310
+5,Face/Off,1573,310
+6,"Honey, I Shrunk the Kids",2054,310
+7,Dead Poets Society,1246,310
+8,Speed,377,310
+9,Enemy of the State,2353,310
+10,Beauty and the Beast,595,310
+0,"Fugitive, The",457,312
+1,Cliffhanger,434,312
+2,Schindler's List,527,312
+3,"Wizard of Oz, The",919,312
+4,Willy Wonka & the Chocolate Factory,1073,312
+5,Ace Ventura: When Nature Calls,19,312
+6,True Lies,380,312
+7,"Rock, The",733,312
+8,"Princess Bride, The",1197,312
+9,"Clockwork Orange, A",1206,312
+10,Get Shorty,21,312
+0,"Mummy, The",2617,313
+1,Some Like It Hot,910,313
+2,Tombstone,553,313
+3,"Fugitive, The",457,313
+4,"Matrix, The",2571,313
+5,North by Northwest,908,313
+6,Almost Famous,3897,313
+7,Hook,3489,313
+8,Batman,592,313
+9,Mission: Impossible,648,313
+10,Twelve Monkeys (a.k.a. 12 Monkeys),32,313
+0,Star Wars: Episode V - The Empire Strikes Back,1196,314
+1,Dances with Wolves,590,314
+2,Starship Troopers,1676,314
+3,Tron,2105,314
+4,Total Recall,2916,314
+5,Back to the Future,1270,314
+6,Face/Off,1573,314
+7,Run Lola Run (Lola rennt),2692,314
+8,Desperado,163,314
+9,Grosse Pointe Blank,1500,314
+10,"Mask, The",367,314
+0,Batman,592,316
+1,"Game, The",1625,316
+2,Pinocchio,596,316
+3,"Jungle Book, The",2078,316
+4,Speed,377,316
+5,"Truth About Cats & Dogs, The",708,316
+6,Casino,16,316
+7,There's Something About Mary,1923,316
+8,Sense and Sensibility,17,316
+9,"Silence of the Lambs, The",593,316
+10,"Honey, I Shrunk the Kids",2054,316
+0,Psycho,1219,317
+1,Willy Wonka & the Chocolate Factory,1073,317
+2,Snow White and the Seven Dwarfs,594,317
+3,"Fugitive, The",457,317
+4,True Lies,380,317
+5,"Wizard of Oz, The",919,317
+6,"Blues Brothers, The",1220,317
+7,Galaxy Quest,3175,317
+8,Ace Ventura: When Nature Calls,19,317
+9,Batman Returns,1377,317
+10,Fargo,608,317
+0,"Shining, The",1258,321
+1,"Honey, I Shrunk the Kids",2054,321
+2,Traffic,4034,321
+3,"Game, The",1625,321
+4,Pulp Fiction,296,321
+5,Rushmore,2395,321
+6,Life Is Beautiful (La Vita è bella),2324,321
+7,"Mask, The",367,321
+8,Beetlejuice,2174,321
+9,"Truth About Cats & Dogs, The",708,321
+10,From Dusk Till Dawn,70,321
+0,"Fugitive, The",457,322
+1,Alien,1214,322
+2,Addams Family Values,410,322
+3,Tombstone,553,322
+4,"Blues Brothers, The",1220,322
+5,Magnolia,3160,322
+6,Some Like It Hot,910,322
+7,Casino,16,322
+8,"Usual Suspects, The",50,322
+9,"Wizard of Oz, The",919,322
+10,Grosse Pointe Blank,1500,322
+0,Tommy Boy,333,323
+1,"Terminator, The",1240,323
+2,Back to the Future Part III,2012,323
+3,"Jungle Book, The",2078,323
+4,"Big Lebowski, The",1732,323
+5,Seven (a.k.a. Se7en),47,323
+6,Hot Shots! Part Deux,466,323
+7,Rocky,1954,323
+8,Independence Day (a.k.a. ID4),780,323
+9,Citizen Kane,923,323
+10,Dances with Wolves,590,323
+0,"Blues Brothers, The",1220,325
+1,"Big Lebowski, The",1732,325
+2,Monty Python's Life of Brian,1080,325
+3,"Three Musketeers, The",552,325
+4,"Few Good Men, A",2268,325
+5,"Breakfast Club, The",1968,325
+6,12 Angry Men,1203,325
+7,Bridget Jones's Diary,4246,325
+8,Pretty Woman,597,325
+9,Lethal Weapon,2000,325
+10,Brazil,1199,325
+0,Batman Returns,1377,326
+1,L.A. Confidential,1617,326
+2,Congo,160,326
+3,X-Men,3793,326
+4,"Breakfast Club, The",1968,326
+5,There's Something About Mary,1923,326
+6,Mission: Impossible,648,326
+7,"Birdcage, The",141,326
+8,Star Wars: Episode I - The Phantom Menace,2628,326
+9,Star Wars: Episode V - The Empire Strikes Back,1196,326
+10,Schindler's List,527,326
+0,Clear and Present Danger,349,328
+1,"Wizard of Oz, The",919,328
+2,First Knight,168,328
+3,Ghostbusters (a.k.a. Ghost Busters),2716,328
+4,12 Angry Men,1203,328
+5,"Breakfast Club, The",1968,328
+6,"Terminator, The",1240,328
+7,American Beauty,2858,328
+8,"South Park: Bigger, Longer and Uncut",2700,328
+9,Citizen Kane,923,328
+10,There's Something About Mary,1923,328
+0,Tommy Boy,333,330
+1,"Rock, The",733,330
+2,Mission: Impossible,648,330
+3,Dances with Wolves,590,330
+4,"Silence of the Lambs, The",593,330
+5,Austin Powers: International Man of Mystery,1517,330
+6,Planet of the Apes,2529,330
+7,Total Recall,2916,330
+8,Star Wars: Episode V - The Empire Strikes Back,1196,330
+9,Monty Python's Life of Brian,1080,330
+10,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,330
+0,"Matrix Reloaded, The",6365,331
+1,"Lord of the Rings: The Fellowship of the Ring, The",4993,331
+2,Life Is Beautiful (La Vita è bella),2324,331
+3,Planet of the Apes,2529,331
+4,Spirited Away (Sen to Chihiro no kamikakushi),5618,331
+5,Clear and Present Danger,349,331
+6,"Truman Show, The",1682,331
+7,"Blues Brothers, The",1220,331
+8,"Fugitive, The",457,331
+9,Waterworld,208,331
+10,Mission: Impossible,648,331
+0,Die Hard: With a Vengeance,165,332
+1,Election,2599,332
+2,Batman Returns,1377,332
+3,Star Wars: Episode I - The Phantom Menace,2628,332
+4,Reservoir Dogs,1089,332
+5,Galaxy Quest,3175,332
+6,Wayne's World,3253,332
+7,Hook,3489,332
+8,RoboCop,2985,332
+9,Grosse Pointe Blank,1500,332
+10,Dead Man Walking,36,332
+0,"Mask, The",367,334
+1,E.T. the Extra-Terrestrial,1097,334
+2,Get Shorty,21,334
+3,Independence Day (a.k.a. ID4),780,334
+4,Tron,2105,334
+5,Citizen Kane,923,334
+6,"Wizard of Oz, The",919,334
+7,Apocalypse Now,1208,334
+8,Good Will Hunting,1704,334
+9,Goodfellas,1213,334
+10,Casper,158,334
+0,Groundhog Day,1265,336
+1,Lethal Weapon,2000,336
+2,Get Shorty,21,336
+3,Austin Powers: International Man of Mystery,1517,336
+4,Saving Private Ryan,2028,336
+5,Forrest Gump,356,336
+6,Twelve Monkeys (a.k.a. 12 Monkeys),32,336
+7,Young Frankenstein,1278,336
+8,Sabrina,7,336
+9,Twister,736,336
+10,Grosse Pointe Blank,1500,336
+0,"Fugitive, The",457,337
+1,"Shining, The",1258,337
+2,Beetlejuice,2174,337
+3,Citizen Kane,923,337
+4,Pulp Fiction,296,337
+5,"American President, The",11,337
+6,"Honey, I Shrunk the Kids",2054,337
+7,"Lock, Stock & Two Smoking Barrels",2542,337
+8,"Goonies, The",2005,337
+9,Die Hard: With a Vengeance,165,337
+10,Back to the Future,1270,337
+0,"Crow, The",353,339
+1,True Lies,380,339
+2,Robin Hood: Men in Tights,520,339
+3,"Princess Bride, The",1197,339
+4,Jumanji,2,339
+5,Twister,736,339
+6,Fight Club,2959,339
+7,"Goonies, The",2005,339
+8,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,339
+9,Independence Day (a.k.a. ID4),780,339
+10,Reservoir Dogs,1089,339
+0,"Beautiful Mind, A",4995,341
+1,"Dark Knight, The",58559,341
+2,American Beauty,2858,341
+3,Ocean's Eleven,4963,341
+4,Batman Begins,33794,341
+5,Skyfall,96079,341
+6,Pulp Fiction,296,341
+7,"Matrix Revolutions, The",6934,341
+8,Tombstone,553,341
+9,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2),5459,341
+10,Toy Story 2,3114,341
+0,Waterworld,208,342
+1,Naked Gun 33 1/3: The Final Insult,370,342
+2,Edward Scissorhands,2291,342
+3,North by Northwest,908,342
+4,Young Frankenstein,1278,342
+5,Braveheart,110,342
+6,Planet of the Apes,2529,342
+7,Rushmore,2395,342
+8,Casino,16,342
+9,Butch Cassidy and the Sundance Kid,1304,342
+10,GoldenEye,10,342
+0,Young Frankenstein,1278,343
+1,Star Wars: Episode VI - Return of the Jedi,1210,343
+2,Best in Show,3911,343
+3,Goodfellas,1213,343
+4,E.T. the Extra-Terrestrial,1097,343
+5,Planet of the Apes,2529,343
+6,Tombstone,553,343
+7,While You Were Sleeping,339,343
+8,Indiana Jones and the Last Crusade,1291,343
+9,Enemy of the State,2353,343
+10,What's Eating Gilbert Grape,337,343
+0,Terminator 2: Judgment Day,589,344
+1,Mission: Impossible II,3623,344
+2,Indiana Jones and the Last Crusade,1291,344
+3,"Three Musketeers, The",552,344
+4,Addams Family Values,410,344
+5,Unbreakable,3994,344
+6,Planet of the Apes,2529,344
+7,Batman Forever,153,344
+8,"Full Monty, The",1641,344
+9,Psycho,1219,344
+10,Dances with Wolves,590,344
+0,Donnie Brasco,1466,345
+1,Indiana Jones and the Last Crusade,1291,345
+2,Tombstone,553,345
+3,"Truth About Cats & Dogs, The",708,345
+4,Tombstone,553,345
+5,Get Shorty,21,345
+6,"Silence of the Lambs, The",593,345
+7,Speed,377,345
+8,Casino,16,345
+9,Star Wars: Episode IV - A New Hope,260,345
+10,"Big Lebowski, The",1732,345
+0,Austin Powers: The Spy Who Shagged Me,2683,346
+1,Schindler's List,527,346
+2,Casper,158,346
+3,"Terminator, The",1240,346
+4,Tron,2105,346
+5,X-Men,3793,346
+6,City Slickers II: The Legend of Curly's Gold,432,346
+7,Broken Arrow,95,346
+8,Back to the Future Part III,2012,346
+9,"Princess Bride, The",1197,346
+10,"Clockwork Orange, A",1206,346
+0,Ace Ventura: Pet Detective,344,348
+1,Top Gun,1101,348
+2,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",3996,348
+3,Young Frankenstein,1278,348
+4,Star Wars: Episode VI - Return of the Jedi,1210,348
+5,Reservoir Dogs,1089,348
+6,"Lock, Stock & Two Smoking Barrels",2542,348
+7,Indiana Jones and the Last Crusade,1291,348
+8,While You Were Sleeping,339,348
+9,Life Is Beautiful (La Vita è bella),2324,348
+10,Edward Scissorhands,2291,348
+0,Superman,2640,351
+1,"Beautiful Mind, A",4995,351
+2,"Departed, The",48516,351
+3,Sin City,32587,351
+4,Four Weddings and a Funeral,357,351
+5,Austin Powers: International Man of Mystery,1517,351
+6,American Beauty,2858,351
+7,Unbreakable,3994,351
+8,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,750,351
+9,Star Wars: Episode I - The Phantom Menace,2628,351
+10,Waterworld,208,351
+0,Cliffhanger,434,352
+1,Tombstone,553,352
+2,"Usual Suspects, The",50,352
+3,Galaxy Quest,3175,352
+4,Mrs. Doubtfire,500,352
+5,"Jungle Book, The",2078,352
+6,Goodfellas,1213,352
+7,Sense and Sensibility,17,352
+8,Monty Python and the Holy Grail,1136,352
+9,Citizen Kane,923,352
+10,Fargo,608,352
+0,Space Jam,673,353
+1,Rushmore,2395,353
+2,Saving Private Ryan,2028,353
+3,Starship Troopers,1676,353
+4,Star Wars: Episode I - The Phantom Menace,2628,353
+5,Alien,1214,353
+6,Tombstone,553,353
+7,Con Air,1552,353
+8,Seven (a.k.a. Se7en),47,353
+9,Grumpier Old Men,3,353
+10,Legends of the Fall,266,353
+0,Being John Malkovich,2997,354
+1,"Wizard of Oz, The",919,354
+2,E.T. the Extra-Terrestrial,1097,354
+3,L.A. Confidential,1617,354
+4,Goodfellas,1213,354
+5,Space Jam,673,354
+6,"Mask, The",367,354
+7,Seven (a.k.a. Se7en),47,354
+8,Maverick,368,354
+9,"Full Monty, The",1641,354
+10,RoboCop,2985,354
+0,Dumb & Dumber (Dumb and Dumber),231,356
+1,"Fugitive, The",457,356
+2,Die Hard: With a Vengeance,165,356
+3,Tommy Boy,333,356
+4,Mars Attacks!,1391,356
+5,Mrs. Doubtfire,500,356
+6,Gladiator,3578,356
+7,Men in Black (a.k.a. MIB),1580,356
+8,Bad Boys,145,356
+9,Pulp Fiction,296,356
+10,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",3996,356
+0,Mission: Impossible,648,357
+1,"Lock, Stock & Two Smoking Barrels",2542,357
+2,"Abyss, The",1127,357
+3,Star Wars: Episode VI - Return of the Jedi,1210,357
+4,Sleepless in Seattle,539,357
+5,"Matrix, The",2571,357
+6,"Princess Bride, The",1197,357
+7,Citizen Kane,923,357
+8,Willy Wonka & the Chocolate Factory,1073,357
+9,Spaceballs,3033,357
+10,Monty Python's Life of Brian,1080,357
+0,Magnolia,3160,359
+1,"Terminator, The",1240,359
+2,Monty Python's Life of Brian,1080,359
+3,Rushmore,2395,359
+4,"Three Musketeers, The",552,359
+5,"Honey, I Shrunk the Kids",2054,359
+6,"Goonies, The",2005,359
+7,"Truth About Cats & Dogs, The",708,359
+8,Seven (a.k.a. Se7en),47,359
+9,Léon: The Professional (a.k.a. The Professional) (Léon),293,359
+10,Groundhog Day,1265,359
+0,Wild Wild West,2701,361
+1,Back to the Future,1270,361
+2,American Beauty,2858,361
+3,Casper,158,361
+4,"Santa Clause, The",317,361
+5,Romancing the Stone,2406,361
+6,Platoon,1090,361
+7,Young Frankenstein,1278,361
+8,Goodfellas,1213,361
+9,Crocodile Dundee,2470,361
+10,Ghostbusters (a.k.a. Ghost Busters),2716,361
+0,Snow White and the Seven Dwarfs,594,362
+1,Star Wars: Episode VI - Return of the Jedi,1210,362
+2,Apocalypse Now,1208,362
+3,"Jungle Book, The",2078,362
+4,Aladdin,588,362
+5,Ace Ventura: When Nature Calls,19,362
+6,Congo,160,362
+7,Goodfellas,1213,362
+8,Stand by Me,1259,362
+9,Amadeus,1225,362
+10,This Is Spinal Tap,1288,362
+0,Top Gun,1101,365
+1,City Slickers II: The Legend of Curly's Gold,432,365
+2,"Hunt for Red October, The",1610,365
+3,Apocalypse Now,1208,365
+4,Star Wars: Episode IV - A New Hope,260,365
+5,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,750,365
+6,Unbreakable,3994,365
+7,2001: A Space Odyssey,924,365
+8,Star Wars: Episode II - Attack of the Clones,5378,365
+9,"Santa Clause, The",317,365
+10,Austin Powers: International Man of Mystery,1517,365
+0,Goodfellas,1213,367
+1,Moulin Rouge,4308,367
+2,L.A. Confidential,1617,367
+3,Young Frankenstein,1278,367
+4,"Usual Suspects, The",50,367
+5,Monty Python and the Holy Grail,1136,367
+6,Twister,736,367
+7,Rushmore,2395,367
+8,Beauty and the Beast,595,367
+9,Star Wars: Episode V - The Empire Strikes Back,1196,367
+10,Mrs. Doubtfire,500,367
+0,"Truth About Cats & Dogs, The",708,368
+1,Tombstone,553,368
+2,Grosse Pointe Blank,1500,368
+3,Schindler's List,527,368
+4,Life Is Beautiful (La Vita è bella),2324,368
+5,Ed Wood,235,368
+6,"Green Mile, The",3147,368
+7,Star Wars: Episode I - The Phantom Menace,2628,368
+8,"Lock, Stock & Two Smoking Barrels",2542,368
+9,Almost Famous,3897,368
+10,Planet of the Apes,2529,368
+0,Young Frankenstein,1278,369
+1,Tombstone,553,369
+2,Indiana Jones and the Temple of Doom,2115,369
+3,Austin Powers: The Spy Who Shagged Me,2683,369
+4,"Jungle Book, The",2078,369
+5,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),4896,369
+6,Casper,158,369
+7,Fantasia,1282,369
+8,Starship Troopers,1676,369
+9,Run Lola Run (Lola rennt),2692,369
+10,Back to the Future Part III,2012,369
+0,Last Action Hero,485,370
+1,Austin Powers: International Man of Mystery,1517,370
+2,"Goonies, The",2005,370
+3,Terminator 2: Judgment Day,589,370
+4,Independence Day (a.k.a. ID4),780,370
+5,Men in Black (a.k.a. MIB),1580,370
+6,Monty Python and the Holy Grail,1136,370
+7,Leaving Las Vegas,25,370
+8,True Lies,380,370
+9,North by Northwest,908,370
+10,Some Like It Hot,910,370
+0,Fantasia,1282,372
+1,Goodfellas,1213,372
+2,Tombstone,553,372
+3,Fargo,608,372
+4,Batman,592,372
+5,Tommy Boy,333,372
+6,Monty Python and the Holy Grail,1136,372
+7,Monty Python's Life of Brian,1080,372
+8,L.A. Confidential,1617,372
+9,Good Will Hunting,1704,372
+10,Monty Python and the Holy Grail,1136,372
+0,Lethal Weapon,2000,373
+1,Apocalypse Now,1208,373
+2,Pinocchio,596,373
+3,"Green Mile, The",3147,373
+4,Edward Scissorhands,2291,373
+5,Starship Troopers,1676,373
+6,Men in Black (a.k.a. MIB),1580,373
+7,Batman Returns,1377,373
+8,Mrs. Doubtfire,500,373
+9,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",3996,373
+10,Indiana Jones and the Last Crusade,1291,373
+0,"Fugitive, The",457,376
+1,Clear and Present Danger,349,376
+2,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,376
+3,City Slickers II: The Legend of Curly's Gold,432,376
+4,Ghost,587,376
+5,Mrs. Doubtfire,500,376
+6,Con Air,1552,376
+7,"Wizard of Oz, The",919,376
+8,Willy Wonka & the Chocolate Factory,1073,376
+9,Magnolia,3160,376
+10,Jurassic Park,480,376
+0,Die Hard: With a Vengeance,165,377
+1,Sabrina,7,377
+2,North by Northwest,908,377
+3,Rushmore,2395,377
+4,Face/Off,1573,377
+5,Forrest Gump,356,377
+6,Planet of the Apes,2529,377
+7,"Silence of the Lambs, The",593,377
+8,Edward Scissorhands,2291,377
+9,Grumpier Old Men,3,377
+10,Braveheart,110,377
 0,Tommy Boy,333,381
 1,Space Jam,673,381
 2,Reservoir Dogs,1089,381
@@ -21,6 +2353,1128 @@
 8,Being John Malkovich,2997,381
 9,"Silence of the Lambs, The",593,381
 10,Platoon,1090,381
+0,"Shining, The",1258,382
+1,"Usual Suspects, The",50,382
+2,Batman,592,382
+3,Lethal Weapon,2000,382
+4,This Is Spinal Tap,1288,382
+5,Office Space,2502,382
+6,"American President, The",11,382
+7,Fantasia,1282,382
+8,Stargate,316,382
+9,Leaving Las Vegas,25,382
+10,Schindler's List,527,382
+0,"Three Musketeers, The",552,384
+1,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),4896,384
+2,Star Wars: Episode V - The Empire Strikes Back,1196,384
+3,Star Wars: Episode I - The Phantom Menace,2628,384
+4,Batman Returns,1377,384
+5,Austin Powers: International Man of Mystery,1517,384
+6,Four Weddings and a Funeral,357,384
+7,Dances with Wolves,590,384
+8,Monty Python and the Holy Grail,1136,384
+9,Psycho,1219,384
+10,Austin Powers: International Man of Mystery,1517,384
+0,Rear Window,904,385
+1,Tombstone,553,385
+2,Fantasia,1282,385
+3,Goodfellas,1213,385
+4,Batman,592,385
+5,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,385
+6,L.A. Confidential,1617,385
+7,Monty Python and the Holy Grail,1136,385
+8,Monty Python's Life of Brian,1080,385
+9,Heat,6,385
+10,Seven (a.k.a. Se7en),47,385
+0,"Mummy, The",2617,386
+1,"Game, The",1625,386
+2,Enemy of the State,2353,386
+3,Mission: Impossible,648,386
+4,"Santa Clause, The",317,386
+5,Election,2599,386
+6,"Three Musketeers, The",552,386
+7,Austin Powers: International Man of Mystery,1517,386
+8,Fargo,608,386
+9,"Silence of the Lambs, The",593,386
+10,Naked Gun 33 1/3: The Final Insult,370,386
+0,"Three Musketeers, The",552,390
+1,Austin Powers: International Man of Mystery,1517,390
+2,Face/Off,1573,390
+3,Star Wars: Episode V - The Empire Strikes Back,1196,390
+4,Dances with Wolves,590,390
+5,Star Wars: Episode I - The Phantom Menace,2628,390
+6,Saving Private Ryan,2028,390
+7,Interview with the Vampire: The Vampire Chronicles,253,390
+8,Rushmore,2395,390
+9,There's Something About Mary,1923,390
+10,Beauty and the Beast,595,390
+0,Star Wars: Episode IV - A New Hope,260,391
+1,Dances with Wolves,590,391
+2,E.T. the Extra-Terrestrial,1097,391
+3,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,391
+4,Total Recall,2916,391
+5,Who Framed Roger Rabbit?,2987,391
+6,L.A. Confidential,1617,391
+7,Ed Wood,235,391
+8,Twelve Monkeys (a.k.a. 12 Monkeys),32,391
+9,"Rock, The",733,391
+10,Space Jam,673,391
+0,X-Men,3793,393
+1,L.A. Confidential,1617,393
+2,Catch Me If You Can,5989,393
+3,"Fugitive, The",457,393
+4,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2),5459,393
+5,Dances with Wolves,590,393
+6,"Hunt for Red October, The",1610,393
+7,Superman,2640,393
+8,While You Were Sleeping,339,393
+9,Terminator 2: Judgment Day,589,393
+10,Austin Powers: International Man of Mystery,1517,393
+0,Tommy Boy,333,395
+1,Being John Malkovich,2997,395
+2,"Shining, The",1258,395
+3,Fargo,608,395
+4,Ace Ventura: When Nature Calls,19,395
+5,Romancing the Stone,2406,395
+6,Armageddon,1917,395
+7,In the Line of Fire,474,395
+8,"Lock, Stock & Two Smoking Barrels",2542,395
+9,Starship Troopers,1676,395
+10,Toy Story,1,395
+0,"Lord of the Rings: The Return of the King, The",7153,401
+1,Shrek,4306,401
+2,Spider-Man 2,8636,401
+3,Star Wars: Episode I - The Phantom Menace,2628,401
+4,"Sixth Sense, The",2762,401
+5,Charlie's Angels,3977,401
+6,School of Rock,6863,401
+7,Spider-Man 2,8636,401
+8,Dances with Wolves,590,401
+9,Gladiator,3578,401
+10,Clear and Present Danger,349,401
+0,"Shining, The",1258,404
+1,Beetlejuice,2174,404
+2,Twelve Monkeys (a.k.a. 12 Monkeys),32,404
+3,"Honey, I Shrunk the Kids",2054,404
+4,Heat,6,404
+5,"Breakfast Club, The",1968,404
+6,Citizen Kane,923,404
+7,"Goonies, The",2005,404
+8,Tommy Boy,333,404
+9,"Game, The",1625,404
+10,"Lock, Stock & Two Smoking Barrels",2542,404
+0,Tombstone,553,405
+1,Natural Born Killers,288,405
+2,Young Frankenstein,1278,405
+3,Batman,592,405
+4,Fantasia,1282,405
+5,"Full Monty, The",1641,405
+6,Pulp Fiction,296,405
+7,"Honey, I Shrunk the Kids",2054,405
+8,"American President, The",11,405
+9,Alien,1214,405
+10,Monty Python and the Holy Grail,1136,405
+0,As Good as It Gets,1784,408
+1,2001: A Space Odyssey,924,408
+2,"Monsters, Inc.",4886,408
+3,Dances with Wolves,590,408
+4,Fantasia,1282,408
+5,"Sixth Sense, The",2762,408
+6,Congo,160,408
+7,"Birdcage, The",141,408
+8,Good Will Hunting,1704,408
+9,Bridget Jones's Diary,4246,408
+10,"Silence of the Lambs, The",593,408
+0,Blow,4239,409
+1,Romancing the Stone,2406,409
+2,Some Like It Hot,910,409
+3,Die Hard: With a Vengeance,165,409
+4,"Terminator, The",1240,409
+5,"Matrix, The",2571,409
+6,Happy Gilmore,104,409
+7,Casper,158,409
+8,Being John Malkovich,2997,409
+9,Sense and Sensibility,17,409
+10,"Goonies, The",2005,409
+0,Groundhog Day,1265,410
+1,Casper,158,410
+2,Desperado,163,410
+3,Dogma,3052,410
+4,Monty Python and the Holy Grail,1136,410
+5,Bridget Jones's Diary,4246,410
+6,Indiana Jones and the Temple of Doom,2115,410
+7,Saving Private Ryan,2028,410
+8,Young Frankenstein,1278,410
+9,Butch Cassidy and the Sundance Kid,1304,410
+10,Monty Python's Life of Brian,1080,410
+0,Fargo,608,411
+1,"Goonies, The",2005,411
+2,Star Wars: Episode VI - Return of the Jedi,1210,411
+3,American History X,2329,411
+4,Alien,1214,411
+5,Dogma,3052,411
+6,Clerks,223,411
+7,Grosse Pointe Blank,1500,411
+8,"Big Lebowski, The",1732,411
+9,Spaceballs,3033,411
+10,L.A. Confidential,1617,411
+0,Election,2599,412
+1,Star Wars: Episode I - The Phantom Menace,2628,412
+2,Jumanji,2,412
+3,Waterworld,208,412
+4,Groundhog Day,1265,412
+5,Bad Boys,145,412
+6,Willy Wonka & the Chocolate Factory,1073,412
+7,Starship Troopers,1676,412
+8,"Jungle Book, The",2078,412
+9,In the Line of Fire,474,412
+10,Romancing the Stone,2406,412
+0,Grosse Pointe Blank,1500,413
+1,Clear and Present Danger,349,413
+2,"Abyss, The",1127,413
+3,Beetlejuice,2174,413
+4,Austin Powers: The Spy Who Shagged Me,2683,413
+5,What's Eating Gilbert Grape,337,413
+6,Star Wars: Episode IV - A New Hope,260,413
+7,Lethal Weapon,2000,413
+8,Donnie Brasco,1466,413
+9,Big,2797,413
+10,Signs,5502,413
+0,Full Metal Jacket,1222,415
+1,Life Is Beautiful (La Vita è bella),2324,415
+2,Braveheart,110,415
+3,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",3996,415
+4,"Green Mile, The",3147,415
+5,Lethal Weapon,2000,415
+6,RoboCop,2985,415
+7,"Usual Suspects, The",50,415
+8,Willy Wonka & the Chocolate Factory,1073,415
+9,"Shining, The",1258,415
+10,Goodfellas,1213,415
+0,2001: A Space Odyssey,924,416
+1,"Three Musketeers, The",552,416
+2,Indiana Jones and the Last Crusade,1291,416
+3,Con Air,1552,416
+4,Rocky,1954,416
+5,"Shawshank Redemption, The",318,416
+6,Romancing the Stone,2406,416
+7,Ed Wood,235,416
+8,From Dusk Till Dawn,70,416
+9,Indiana Jones and the Last Crusade,1291,416
+10,Big,2797,416
+0,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,750,417
+1,"Truman Show, The",1682,417
+2,Fantasia,1282,417
+3,Unbreakable,3994,417
+4,"Big Lebowski, The",1732,417
+5,True Lies,380,417
+6,There's Something About Mary,1923,417
+7,"Big Lebowski, The",1732,417
+8,"Fugitive, The",457,417
+9,Superman,2640,417
+10,"Usual Suspects, The",50,417
+0,True Lies,380,418
+1,Star Wars: Episode V - The Empire Strikes Back,1196,418
+2,"Blues Brothers, The",1220,418
+3,Austin Powers: The Spy Who Shagged Me,2683,418
+4,"Terminator, The",1240,418
+5,Interview with the Vampire: The Vampire Chronicles,253,418
+6,Grosse Pointe Blank,1500,418
+7,Willy Wonka & the Chocolate Factory,1073,418
+8,Schindler's List,527,418
+9,Edward Scissorhands,2291,418
+10,"Princess Bride, The",1197,418
+0,Star Wars: Episode VI - Return of the Jedi,1210,419
+1,Dances with Wolves,590,419
+2,Alien,1214,419
+3,Jurassic Park,480,419
+4,Forrest Gump,356,419
+5,Amadeus,1225,419
+6,"Blues Brothers, The",1220,419
+7,Psycho,1219,419
+8,Back to the Future Part III,2012,419
+9,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),4896,419
+10,Sabrina,7,419
+0,Schindler's List,527,420
+1,Groundhog Day,1265,420
+2,"Truth About Cats & Dogs, The",708,420
+3,Back to the Future,1270,420
+4,Groundhog Day,1265,420
+5,Saving Private Ryan,2028,420
+6,Tombstone,553,420
+7,Young Frankenstein,1278,420
+8,Stand by Me,1259,420
+9,Dead Man Walking,36,420
+10,Ace Ventura: When Nature Calls,19,420
+0,Grosse Pointe Blank,1500,422
+1,Dances with Wolves,590,422
+2,Romancing the Stone,2406,422
+3,Maverick,368,422
+4,Star Wars: Episode V - The Empire Strikes Back,1196,422
+5,"Rocky Horror Picture Show, The",2657,422
+6,American History X,2329,422
+7,Moulin Rouge,4308,422
+8,Batman Forever,153,422
+9,Con Air,1552,422
+10,X-Men,3793,422
+0,Groundhog Day,1265,424
+1,"Honey, I Shrunk the Kids",2054,424
+2,Austin Powers: The Spy Who Shagged Me,2683,424
+3,Edward Scissorhands,2291,424
+4,X-Men,3793,424
+5,Crimson Tide,161,424
+6,Young Frankenstein,1278,424
+7,Twister,736,424
+8,"Goonies, The",2005,424
+9,Apocalypse Now,1208,424
+10,Platoon,1090,424
+0,"Big Lebowski, The",1732,425
+1,"Mask, The",367,425
+2,Willy Wonka & the Chocolate Factory,1073,425
+3,Dances with Wolves,590,425
+4,Pinocchio,596,425
+5,Forrest Gump,356,425
+6,Beetlejuice,2174,425
+7,"Princess Bride, The",1197,425
+8,Wayne's World,3253,425
+9,Star Wars: Episode IV - A New Hope,260,425
+10,Independence Day (a.k.a. ID4),780,425
+0,Erin Brockovich,3408,426
+1,"Silence of the Lambs, The",593,426
+2,Schindler's List,527,426
+3,Austin Powers: International Man of Mystery,1517,426
+4,Forrest Gump,356,426
+5,Contact,1584,426
+6,Being John Malkovich,2997,426
+7,Good Will Hunting,1704,426
+8,Rocky,1954,426
+9,Congo,160,426
+10,"Abyss, The",1127,426
+0,School of Rock,6863,427
+1,X-Men,3793,427
+2,Legally Blonde,4447,427
+3,Coneheads,435,427
+4,Dances with Wolves,590,427
+5,American Beauty,2858,427
+6,Gladiator,3578,427
+7,Minority Report,5445,427
+8,Shrek,4306,427
+9,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,427
+10,Groundhog Day,1265,427
+0,"American President, The",11,428
+1,Clear and Present Danger,349,428
+2,Dances with Wolves,590,428
+3,Goodfellas,1213,428
+4,Stand by Me,1259,428
+5,Alien,1214,428
+6,"Green Mile, The",3147,428
+7,Leaving Las Vegas,25,428
+8,Monty Python's Life of Brian,1080,428
+9,This Is Spinal Tap,1288,428
+10,Star Wars: Episode V - The Empire Strikes Back,1196,428
+0,Schindler's List,527,429
+1,Twelve Monkeys (a.k.a. 12 Monkeys),32,429
+2,Tombstone,553,429
+3,Con Air,1552,429
+4,Rushmore,2395,429
+5,"Honey, I Shrunk the Kids",2054,429
+6,Spaceballs,3033,429
+7,Being John Malkovich,2997,429
+8,Indiana Jones and the Last Crusade,1291,429
+9,Natural Born Killers,288,429
+10,L.A. Confidential,1617,429
+0,Erin Brockovich,3408,430
+1,Star Wars: Episode VI - Return of the Jedi,1210,430
+2,"Truman Show, The",1682,430
+3,Unbreakable,3994,430
+4,Ice Age,5218,430
+5,Being John Malkovich,2997,430
+6,"Jungle Book, The",2078,430
+7,"Three Musketeers, The",552,430
+8,L.A. Confidential,1617,430
+9,Mrs. Doubtfire,500,430
+10,Goldfinger,2947,430
+0,In the Line of Fire,474,432
+1,"Clockwork Orange, A",1206,432
+2,"American President, The",11,432
+3,Monty Python's Life of Brian,1080,432
+4,Mission: Impossible,648,432
+5,City Slickers II: The Legend of Curly's Gold,432,432
+6,Snow White and the Seven Dwarfs,594,432
+7,Best in Show,3911,432
+8,"Princess Bride, The",1197,432
+9,Saving Private Ryan,2028,432
+10,Four Weddings and a Funeral,357,432
+0,Mission: Impossible,648,434
+1,"Clockwork Orange, A",1206,434
+2,Bridget Jones's Diary,4246,434
+3,Space Jam,673,434
+4,Amadeus,1225,434
+5,Casablanca,912,434
+6,"Rocky Horror Picture Show, The",2657,434
+7,"Three Musketeers, The",552,434
+8,Austin Powers: International Man of Mystery,1517,434
+9,Fight Club,2959,434
+10,"Abyss, The",1127,434
+0,"Terminator, The",1240,436
+1,Life Is Beautiful (La Vita è bella),2324,436
+2,Memento,4226,436
+3,Stargate,316,436
+4,Beetlejuice,2174,436
+5,Saving Private Ryan,2028,436
+6,L.A. Confidential,1617,436
+7,Groundhog Day,1265,436
+8,"Wizard of Oz, The",919,436
+9,"Blues Brothers, The",1220,436
+10,Planet of the Apes,2529,436
+0,Clear and Present Danger,349,437
+1,Star Wars: Episode V - The Empire Strikes Back,1196,437
+2,Tron,2105,437
+3,Starship Troopers,1676,437
+4,Get Shorty,21,437
+5,Grosse Pointe Blank,1500,437
+6,Face/Off,1573,437
+7,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,437
+8,Spaceballs,3033,437
+9,Spaceballs,3033,437
+10,Romancing the Stone,2406,437
+0,"Shining, The",1258,445
+1,Star Wars: Episode IV - A New Hope,260,445
+2,2001: A Space Odyssey,924,445
+3,Star Wars: Episode I - The Phantom Menace,2628,445
+4,Grosse Pointe Blank,1500,445
+5,Back to the Future,1270,445
+6,Saving Private Ryan,2028,445
+7,Donnie Brasco,1466,445
+8,Babe,34,445
+9,Goodfellas,1213,445
+10,Run Lola Run (Lola rennt),2692,445
+0,"Matrix, The",2571,446
+1,Back to the Future Part III,2012,446
+2,Mission: Impossible,648,446
+3,Goodfellas,1213,446
+4,Enemy of the State,2353,446
+5,"Game, The",1625,446
+6,"Usual Suspects, The",50,446
+7,Dogma,3052,446
+8,Austin Powers: International Man of Mystery,1517,446
+9,"Wedding Singer, The",1777,446
+10,"Three Musketeers, The",552,446
+0,"Lock, Stock & Two Smoking Barrels",2542,447
+1,Citizen Kane,923,447
+2,"Shining, The",1258,447
+3,Tommy Boy,333,447
+4,Ghostbusters (a.k.a. Ghost Busters),2716,447
+5,Back to the Future,1270,447
+6,Life Is Beautiful (La Vita è bella),2324,447
+7,Fargo,608,447
+8,Starship Troopers,1676,447
+9,Airplane!,2791,447
+10,Beetlejuice,2174,447
+0,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),4896,450
+1,Casper,158,450
+2,Tombstone,553,450
+3,Batman,592,450
+4,Tombstone,553,450
+5,"Goonies, The",2005,450
+6,"Few Good Men, A",2268,450
+7,Grosse Pointe Blank,1500,450
+8,While You Were Sleeping,339,450
+9,Crimson Tide,161,450
+10,Stand by Me,1259,450
+0,Clear and Present Danger,349,452
+1,"Matrix, The",2571,452
+2,Batman,592,452
+3,"Princess Bride, The",1197,452
+4,Twister,736,452
+5,Pinocchio,596,452
+6,Goodfellas,1213,452
+7,Who Framed Roger Rabbit?,2987,452
+8,Tombstone,553,452
+9,Platoon,1090,452
+10,Dances with Wolves,590,452
+0,Romancing the Stone,2406,453
+1,Spaceballs,3033,453
+2,Space Jam,673,453
+3,Willy Wonka & the Chocolate Factory,1073,453
+4,"Three Musketeers, The",552,453
+5,Schindler's List,527,453
+6,Star Wars: Episode I - The Phantom Menace,2628,453
+7,Star Wars: Episode VI - Return of the Jedi,1210,453
+8,Aladdin,588,453
+9,Star Wars: Episode V - The Empire Strikes Back,1196,453
+10,Monty Python and the Holy Grail,1136,453
+0,Willy Wonka & the Chocolate Factory,1073,455
+1,"Matrix, The",2571,455
+2,Groundhog Day,1265,455
+3,"Few Good Men, A",2268,455
+4,Back to the Future Part III,2012,455
+5,"Big Lebowski, The",1732,455
+6,Mission: Impossible,648,455
+7,Fight Club,2959,455
+8,Big,2797,455
+9,Being John Malkovich,2997,455
+10,Sense and Sensibility,17,455
+0,Tommy Boy,333,458
+1,"Shining, The",1258,458
+2,Citizen Kane,923,458
+3,Forrest Gump,356,458
+4,"Lock, Stock & Two Smoking Barrels",2542,458
+5,Rushmore,2395,458
+6,Ghostbusters (a.k.a. Ghost Busters),2716,458
+7,"Honey, I Shrunk the Kids",2054,458
+8,Fargo,608,458
+9,Starship Troopers,1676,458
+10,Spaceballs,3033,458
+0,Spider-Man,5349,460
+1,Erin Brockovich,3408,460
+2,A.I. Artificial Intelligence,4370,460
+3,Gladiator,3578,460
+4,Pretty Woman,597,460
+5,Star Wars: Episode III - Revenge of the Sith,33493,460
+6,Dances with Wolves,590,460
+7,Batman Begins,33794,460
+8,Forrest Gump,356,460
+9,Harry Potter and the Chamber of Secrets,5816,460
+10,"Lord of the Rings: The Return of the King, The",7153,460
+0,Blazing Saddles,3671,462
+1,Twister,736,462
+2,Jumanji,2,462
+3,Austin Powers: International Man of Mystery,1517,462
+4,Dances with Wolves,590,462
+5,Goodfellas,1213,462
+6,Ghostbusters (a.k.a. Ghost Busters),2716,462
+7,Psycho,1219,462
+8,"Usual Suspects, The",50,462
+9,Monty Python and the Holy Grail,1136,462
+10,Grosse Pointe Blank,1500,462
+0,"Clockwork Orange, A",1206,464
+1,"Goonies, The",2005,464
+2,Platoon,1090,464
+3,GoldenEye,10,464
+4,Pinocchio,596,464
+5,"Mask, The",367,464
+6,Edward Scissorhands,2291,464
+7,"Rock, The",733,464
+8,"American President, The",11,464
+9,Con Air,1552,464
+10,Monty Python's Life of Brian,1080,464
+0,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,750,465
+1,Butch Cassidy and the Sundance Kid,1304,465
+2,Superman,2640,465
+3,"Truth About Cats & Dogs, The",708,465
+4,"Blues Brothers, The",1220,465
+5,Indiana Jones and the Last Crusade,1291,465
+6,School of Rock,6863,465
+7,Mr. Holland's Opus,62,465
+8,Mars Attacks!,1391,465
+9,"Terminator, The",1240,465
+10,Star Wars: Episode V - The Empire Strikes Back,1196,465
+0,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2),5459,466
+1,Erin Brockovich,3408,466
+2,Casablanca,912,466
+3,Signs,5502,466
+4,"Monsters, Inc.",4886,466
+5,Mission: Impossible II,3623,466
+6,Shrek,4306,466
+7,Aladdin,588,466
+8,Batman Begins,33794,466
+9,American Beauty,2858,466
+10,"Hunt for Red October, The",1610,466
+0,Spaceballs,3033,469
+1,Romancing the Stone,2406,469
+2,Mrs. Doubtfire,500,469
+3,Clear and Present Danger,349,469
+4,Star Wars: Episode IV - A New Hope,260,469
+5,"Wedding Singer, The",1777,469
+6,Goldfinger,2947,469
+7,"Wizard of Oz, The",919,469
+8,"Terminator, The",1240,469
+9,Psycho,1219,469
+10,Who Framed Roger Rabbit?,2987,469
+0,Clerks,223,470
+1,Apocalypse Now,1208,470
+2,Lethal Weapon,2000,470
+3,Pinocchio,596,470
+4,Men in Black (a.k.a. MIB),1580,470
+5,Edward Scissorhands,2291,470
+6,Starship Troopers,1676,470
+7,"Sixth Sense, The",2762,470
+8,Batman Returns,1377,470
+9,Mrs. Doubtfire,500,470
+10,"Lock, Stock & Two Smoking Barrels",2542,470
+0,Hot Shots! Part Deux,466,475
+1,Unbreakable,3994,475
+2,L.A. Confidential,1617,475
+3,Contact,1584,475
+4,Batman,592,475
+5,Tombstone,553,475
+6,"Beautiful Mind, A",4995,475
+7,"Silence of the Lambs, The",593,475
+8,Aladdin,588,475
+9,X-Men,3793,475
+10,Sleepless in Seattle,539,475
+0,"Mask, The",367,476
+1,Blow,4239,476
+2,Fantasia,1282,476
+3,Election,2599,476
+4,Beetlejuice,2174,476
+5,Platoon,1090,476
+6,"Fugitive, The",457,476
+7,Galaxy Quest,3175,476
+8,Lethal Weapon,2000,476
+9,Superman,2640,476
+10,Enemy of the State,2353,476
+0,Fantasia,1282,479
+1,"Silence of the Lambs, The",593,479
+2,L.A. Confidential,1617,479
+3,Batman,592,479
+4,Star Wars: Episode IV - A New Hope,260,479
+5,City Slickers II: The Legend of Curly's Gold,432,479
+6,"Monsters, Inc.",4886,479
+7,Good Will Hunting,1704,479
+8,Batman Forever,153,479
+9,Ocean's Eleven,4963,479
+10,"Big Lebowski, The",1732,479
+0,Terminator 2: Judgment Day,589,482
+1,Dead Man Walking,36,482
+2,Mission: Impossible,648,482
+3,Star Wars: Episode V - The Empire Strikes Back,1196,482
+4,Run Lola Run (Lola rennt),2692,482
+5,Galaxy Quest,3175,482
+6,From Dusk Till Dawn,70,482
+7,Shrek,4306,482
+8,As Good as It Gets,1784,482
+9,Tombstone,553,482
+10,Saving Private Ryan,2028,482
+0,Goodfellas,1213,484
+1,Jurassic Park,480,484
+2,"Princess Bride, The",1197,484
+3,Face/Off,1573,484
+4,"Usual Suspects, The",50,484
+5,Mrs. Doubtfire,500,484
+6,Jumanji,2,484
+7,Schindler's List,527,484
+8,Fantasia,1282,484
+9,Being John Malkovich,2997,484
+10,"Honey, I Shrunk the Kids",2054,484
+0,Crocodile Dundee,2470,486
+1,Twister,736,486
+2,Being John Malkovich,2997,486
+3,"Rocky Horror Picture Show, The",2657,486
+4,Blow,4239,486
+5,"Blues Brothers, The",1220,486
+6,Run Lola Run (Lola rennt),2692,486
+7,"Wedding Singer, The",1777,486
+8,Batman,592,486
+9,Tommy Boy,333,486
+10,Airplane!,2791,486
+0,Pirates of the Caribbean: The Curse of the Black Pearl,6539,487
+1,X-Men,3793,487
+2,Star Wars: Episode II - Attack of the Clones,5378,487
+3,Bridget Jones's Diary,4246,487
+4,Back to the Future,1270,487
+5,Mary Poppins,1028,487
+6,Aladdin,588,487
+7,Erin Brockovich,3408,487
+8,"Sixth Sense, The",2762,487
+9,Mission: Impossible II,3623,487
+10,City Slickers II: The Legend of Curly's Gold,432,487
+0,Austin Powers: The Spy Who Shagged Me,2683,488
+1,Back to the Future,1270,488
+2,Star Wars: Episode IV - A New Hope,260,488
+3,Seven (a.k.a. Se7en),47,488
+4,Ghostbusters (a.k.a. Ghost Busters),2716,488
+5,Goodfellas,1213,488
+6,Starship Troopers,1676,488
+7,Grosse Pointe Blank,1500,488
+8,Braveheart,110,488
+9,Star Wars: Episode VI - Return of the Jedi,1210,488
+10,Aladdin,588,488
+0,"Blues Brothers, The",1220,490
+1,Harry Potter and the Prisoner of Azkaban,8368,490
+2,Rocky,1954,490
+3,School of Rock,6863,490
+4,American Beauty,2858,490
+5,X-Men: The Last Stand,45499,490
+6,"Client, The",350,490
+7,"Monsters, Inc.",4886,490
+8,There's Something About Mary,1923,490
+9,"Hunt for Red October, The",1610,490
+10,Toy Story 2,3114,490
+0,Finding Nemo,6377,491
+1,Shrek 2,8360,491
+2,Shrek,4306,491
+3,Star Wars: Episode I - The Phantom Menace,2628,491
+4,A.I. Artificial Intelligence,4370,491
+5,"Beautiful Mind, A",4995,491
+6,"Bourne Supremacy, The",8665,491
+7,Unbreakable,3994,491
+8,Bridget Jones's Diary,4246,491
+9,Spider-Man 2,8636,491
+10,"Lord of the Rings: The Two Towers, The",5952,491
+0,Young Frankenstein,1278,492
+1,"Three Musketeers, The",552,492
+2,Indiana Jones and the Temple of Doom,2115,492
+3,Sleepless in Seattle,539,492
+4,Memento,4226,492
+5,"Birdcage, The",141,492
+6,American History X,2329,492
+7,Dances with Wolves,590,492
+8,Four Weddings and a Funeral,357,492
+9,Dead Poets Society,1246,492
+10,"Wedding Singer, The",1777,492
+0,Jurassic Park,480,493
+1,Full Metal Jacket,1222,493
+2,Jurassic Park,480,493
+3,Reservoir Dogs,1089,493
+4,Outbreak,292,493
+5,Austin Powers: International Man of Mystery,1517,493
+6,"Wedding Singer, The",1777,493
+7,Willy Wonka & the Chocolate Factory,1073,493
+8,"Game, The",1625,493
+9,Monty Python's Life of Brian,1080,493
+10,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,493
+0,Stand by Me,1259,495
+1,"Big Lebowski, The",1732,495
+2,Mrs. Doubtfire,500,495
+3,"Truth About Cats & Dogs, The",708,495
+4,Heat,6,495
+5,Bridget Jones's Diary,4246,495
+6,Independence Day (a.k.a. ID4),780,495
+7,"Three Musketeers, The",552,495
+8,Grosse Pointe Blank,1500,495
+9,Terminator 2: Judgment Day,589,495
+10,Rushmore,2395,495
+0,Grosse Pointe Blank,1500,497
+1,Apocalypse Now,1208,497
+2,Rocky,1954,497
+3,"Breakfast Club, The",1968,497
+4,There's Something About Mary,1923,497
+5,Ocean's Eleven,4963,497
+6,"Few Good Men, A",2268,497
+7,Congo,160,497
+8,Dave,440,497
+9,Mission: Impossible II,3623,497
+10,Wild Wild West,2701,497
+0,Batman Returns,1377,500
+1,Star Wars: Episode IV - A New Hope,260,500
+2,Schindler's List,527,500
+3,Legends of the Fall,266,500
+4,Ace Ventura: When Nature Calls,19,500
+5,Psycho,1219,500
+6,Being John Malkovich,2997,500
+7,"Big Lebowski, The",1732,500
+8,Goodfellas,1213,500
+9,X-Men,3793,500
+10,Spaceballs,3033,500
+0,Mission: Impossible,648,503
+1,Young Frankenstein,1278,503
+2,Indiana Jones and the Last Crusade,1291,503
+3,Almost Famous,3897,503
+4,Planet of the Apes,2529,503
+5,There's Something About Mary,1923,503
+6,Star Wars: Episode VI - Return of the Jedi,1210,503
+7,Platoon,1090,503
+8,"Full Monty, The",1641,503
+9,Good Will Hunting,1704,503
+10,Stargate,316,503
+0,Toy Story 2,3114,504
+1,"Matrix, The",2571,504
+2,As Good as It Gets,1784,504
+3,"Beautiful Mind, A",4995,504
+4,Charlie's Angels,3977,504
+5,Psycho,1219,504
+6,Casablanca,912,504
+7,"Jungle Book, The",2078,504
+8,Dogma,3052,504
+9,Natural Born Killers,288,504
+10,"Three Musketeers, The",552,504
+0,"Silence of the Lambs, The",593,509
+1,Schindler's List,527,509
+2,Full Metal Jacket,1222,509
+3,Batman Forever,153,509
+4,In the Line of Fire,474,509
+5,"Wizard of Oz, The",919,509
+6,"Wizard of Oz, The",919,509
+7,Sleepless in Seattle,539,509
+8,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",3996,509
+9,Casablanca,912,509
+10,"Three Musketeers, The",552,509
+0,Election,2599,510
+1,"Clockwork Orange, A",1206,510
+2,Reservoir Dogs,1089,510
+3,This Is Spinal Tap,1288,510
+4,Twister,736,510
+5,Superman,2640,510
+6,Gladiator,3578,510
+7,Bad Boys,145,510
+8,Young Frankenstein,1278,510
+9,Mission: Impossible,648,510
+10,Groundhog Day,1265,510
+0,Signs,5502,511
+1,While You Were Sleeping,339,511
+2,X2: X-Men United,6333,511
+3,Airplane!,2791,511
+4,American Beauty,2858,511
+5,Erin Brockovich,3408,511
+6,Austin Powers: International Man of Mystery,1517,511
+7,Pulp Fiction,296,511
+8,Men in Black (a.k.a. MIB),1580,511
+9,"Silence of the Lambs, The",593,511
+10,"Santa Clause, The",317,511
+0,Willy Wonka & the Chocolate Factory,1073,514
+1,Goldfinger,2947,514
+2,Crimson Tide,161,514
+3,Twelve Monkeys (a.k.a. 12 Monkeys),32,514
+4,Alien,1214,514
+5,Stargate,316,514
+6,Stand by Me,1259,514
+7,Butch Cassidy and the Sundance Kid,1304,514
+8,Maverick,368,514
+9,"Silence of the Lambs, The",593,514
+10,Reservoir Dogs,1089,514
+0,"Abyss, The",1127,517
+1,Legends of the Fall,266,517
+2,Groundhog Day,1265,517
+3,Tommy Boy,333,517
+4,Star Wars: Episode IV - A New Hope,260,517
+5,Pinocchio,596,517
+6,Four Weddings and a Funeral,357,517
+7,Outbreak,292,517
+8,"Wedding Singer, The",1777,517
+9,Election,2599,517
+10,"Goonies, The",2005,517
+0,"Three Musketeers, The",552,520
+1,Jurassic Park,480,520
+2,Ghost,587,520
+3,Full Metal Jacket,1222,520
+4,Platoon,1090,520
+5,Monty Python's Life of Brian,1080,520
+6,"Clockwork Orange, A",1206,520
+7,E.T. the Extra-Terrestrial,1097,520
+8,Get Shorty,21,520
+9,Leaving Las Vegas,25,520
+10,Beauty and the Beast,595,520
+0,"Mask, The",367,522
+1,Star Wars: Episode V - The Empire Strikes Back,1196,522
+2,Philadelphia,508,522
+3,"Truth About Cats & Dogs, The",708,522
+4,Monty Python's Life of Brian,1080,522
+5,Jumanji,2,522
+6,"Game, The",1625,522
+7,"Princess Bride, The",1197,522
+8,"Usual Suspects, The",50,522
+9,Beauty and the Beast,595,522
+10,"Rock, The",733,522
+0,"Matrix Revolutions, The",6934,523
+1,X-Men,3793,523
+2,Minority Report,5445,523
+3,Shrek,4306,523
+4,Planet of the Apes,2529,523
+5,Back to the Future,1270,523
+6,Aladdin,588,523
+7,Finding Nemo,6377,523
+8,Spider-Man,5349,523
+9,Galaxy Quest,3175,523
+10,Harry Potter and the Prisoner of Azkaban,8368,523
+0,Citizen Kane,923,524
+1,Schindler's List,527,524
+2,"Wedding Singer, The",1777,524
+3,Batman Returns,1377,524
+4,Back to the Future,1270,524
+5,Pulp Fiction,296,524
+6,"Terminator, The",1240,524
+7,Monty Python's Life of Brian,1080,524
+8,Disclosure,225,524
+9,"Fish Called Wanda, A",1079,524
+10,Goodfellas,1213,524
+0,Reservoir Dogs,1089,525
+1,Get Shorty,21,525
+2,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,525
+3,Young Frankenstein,1278,525
+4,Mars Attacks!,1391,525
+5,"O Brother, Where Art Thou?",4027,525
+6,"Blues Brothers, The",1220,525
+7,Tombstone,553,525
+8,There's Something About Mary,1923,525
+9,Dances with Wolves,590,525
+10,"Clockwork Orange, A",1206,525
+0,Men in Black (a.k.a. MIB),1580,526
+1,Rushmore,2395,526
+2,Star Wars: Episode I - The Phantom Menace,2628,526
+3,Election,2599,526
+4,"Honey, I Shrunk the Kids",2054,526
+5,Pulp Fiction,296,526
+6,Fargo,608,526
+7,Superman,2640,526
+8,Minority Report,5445,526
+9,Grumpier Old Men,3,526
+10,L.A. Confidential,1617,526
+0,Star Wars: Episode VI - Return of the Jedi,1210,527
+1,Batman Forever,153,527
+2,Life Is Beautiful (La Vita è bella),2324,527
+3,Aladdin,588,527
+4,Psycho,1219,527
+5,Alien,1214,527
+6,Independence Day (a.k.a. ID4),780,527
+7,American History X,2329,527
+8,Apollo 13,150,527
+9,Starship Troopers,1676,527
+10,Twister,736,527
+0,Top Gun,1101,528
+1,"Lock, Stock & Two Smoking Barrels",2542,528
+2,Enemy of the State,2353,528
+3,Ace Ventura: Pet Detective,344,528
+4,Monty Python and the Holy Grail,1136,528
+5,Alien,1214,528
+6,Ocean's Eleven,4963,528
+7,Life Is Beautiful (La Vita è bella),2324,528
+8,Fantasia,1282,528
+9,"Abyss, The",1127,528
+10,While You Were Sleeping,339,528
+0,"Rock, The",733,541
+1,"Honey, I Shrunk the Kids",2054,541
+2,Face/Off,1573,541
+3,Romancing the Stone,2406,541
+4,Psycho,1219,541
+5,Dances with Wolves,590,541
+6,"Big Lebowski, The",1732,541
+7,Superman,2640,541
+8,Gladiator,3578,541
+9,Casino,16,541
+10,Lethal Weapon,2000,541
+0,"Three Musketeers, The",552,542
+1,Young Frankenstein,1278,542
+2,Dead Man Walking,36,542
+3,Tombstone,553,542
+4,Armageddon,1917,542
+5,Hot Shots! Part Deux,466,542
+6,Rocky,1954,542
+7,Donnie Brasco,1466,542
+8,Starship Troopers,1676,542
+9,Fantasia,1282,542
+10,"Blues Brothers, The",1220,542
+0,Dances with Wolves,590,543
+1,Con Air,1552,543
+2,"Silence of the Lambs, The",593,543
+3,Election,2599,543
+4,Rushmore,2395,543
+5,Interview with the Vampire: The Vampire Chronicles,253,543
+6,Star Wars: Episode I - The Phantom Menace,2628,543
+7,Grumpier Old Men,3,543
+8,"Honey, I Shrunk the Kids",2054,543
+9,Magnolia,3160,543
+10,"Hunt for Red October, The",1610,543
+0,"American President, The",11,546
+1,Dances with Wolves,590,546
+2,Casino,16,546
+3,"Truth About Cats & Dogs, The",708,546
+4,Addams Family Values,410,546
+5,"Honey, I Shrunk the Kids",2054,546
+6,Braveheart,110,546
+7,First Knight,168,546
+8,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,546
+9,Con Air,1552,546
+10,Enemy of the State,2353,546
+0,Aladdin,588,551
+1,Star Wars: Episode V - The Empire Strikes Back,1196,551
+2,Star Wars: Episode I - The Phantom Menace,2628,551
+3,Fantasia,1282,551
+4,"Santa Clause, The",317,551
+5,"Three Musketeers, The",552,551
+6,Planet of the Apes,2529,551
+7,Ocean's Eleven,4963,551
+8,Contact,1584,551
+9,Batman Returns,1377,551
+10,"Birdcage, The",141,551
+0,Mrs. Doubtfire,500,552
+1,"Terminator, The",1240,552
+2,Groundhog Day,1265,552
+3,"Big Lebowski, The",1732,552
+4,"Fugitive, The",457,552
+5,Monty Python's Life of Brian,1080,552
+6,Tron,2105,552
+7,Willy Wonka & the Chocolate Factory,1073,552
+8,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,552
+9,"Three Musketeers, The",552,552
+10,Aladdin,588,552
+0,"Three Musketeers, The",552,553
+1,Being John Malkovich,2997,553
+2,Beetlejuice,2174,553
+3,"Honey, I Shrunk the Kids",2054,553
+4,First Knight,168,553
+5,"Usual Suspects, The",50,553
+6,Office Space,2502,553
+7,Four Weddings and a Funeral,357,553
+8,Batman Returns,1377,553
+9,"Rocky Horror Picture Show, The",2657,553
+10,"Goonies, The",2005,553
+0,Fight Club,2959,554
+1,Groundhog Day,1265,554
+2,X-Men,3793,554
+3,L.A. Confidential,1617,554
+4,Being John Malkovich,2997,554
+5,Ace Ventura: When Nature Calls,19,554
+6,"Honey, I Shrunk the Kids",2054,554
+7,Léon: The Professional (a.k.a. The Professional) (Léon),293,554
+8,Young Frankenstein,1278,554
+9,Indiana Jones and the Last Crusade,1291,554
+10,Mr. Holland's Opus,62,554
+0,Armageddon,1917,558
+1,"Sixth Sense, The",2762,558
+2,Run Lola Run (Lola rennt),2692,558
+3,Speed,377,558
+4,"Blues Brothers, The",1220,558
+5,Monty Python and the Holy Grail,1136,558
+6,Star Wars: Episode V - The Empire Strikes Back,1196,558
+7,Harry Potter and the Prisoner of Azkaban,8368,558
+8,Unbreakable,3994,558
+9,Con Air,1552,558
+10,True Lies,380,558
+0,Star Wars: Episode IV - A New Hope,260,559
+1,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,559
+2,L.A. Confidential,1617,559
+3,"Silence of the Lambs, The",593,559
+4,Beetlejuice,2174,559
+5,Con Air,1552,559
+6,Groundhog Day,1265,559
+7,"Sixth Sense, The",2762,559
+8,"Wedding Singer, The",1777,559
+9,RoboCop,2985,559
+10,Fantasia,1282,559
+0,Seven (a.k.a. Se7en),47,560
+1,Pulp Fiction,296,560
+2,Beetlejuice,2174,560
+3,This Is Spinal Tap,1288,560
+4,"Green Mile, The",3147,560
+5,Platoon,1090,560
+6,Happy Gilmore,104,560
+7,Fight Club,2959,560
+8,"Rock, The",733,560
+9,Full Metal Jacket,1222,560
+10,Indiana Jones and the Last Crusade,1291,560
+0,Alien,1214,562
+1,Fight Club,2959,562
+2,Sleepless in Seattle,539,562
+3,Men in Black (a.k.a. MIB),1580,562
+4,Some Like It Hot,910,562
+5,Jurassic Park,480,562
+6,Hook,3489,562
+7,Starship Troopers,1676,562
+8,Get Shorty,21,562
+9,Independence Day (a.k.a. ID4),780,562
+10,North by Northwest,908,562
+0,"Sixth Sense, The",2762,563
+1,Charlie's Angels,3977,563
+2,Con Air,1552,563
+3,Eyes Wide Shut,2712,563
+4,"Shawshank Redemption, The",318,563
+5,Airplane!,2791,563
+6,Star Wars: Episode I - The Phantom Menace,2628,563
+7,"Honey, I Shrunk the Kids",2054,563
+8,Dogma,3052,563
+9,"Big Lebowski, The",1732,563
+10,Bridget Jones's Diary,4246,563
+0,Dances with Wolves,590,564
+1,Planet of the Apes,2529,564
+2,"Monsters, Inc.",4886,564
+3,Face/Off,1573,564
+4,"Santa Clause, The",317,564
+5,"Bourne Supremacy, The",8665,564
+6,Planet of the Apes,2529,564
+7,Galaxy Quest,3175,564
+8,Wayne's World,3253,564
+9,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,564
+10,"Clockwork Orange, A",1206,564
+0,Dumb & Dumber (Dumb and Dumber),231,566
+1,Mission: Impossible,648,566
+2,Enemy of the State,2353,566
+3,Goodfellas,1213,566
+4,Back to the Future Part III,2012,566
+5,Psycho,1219,566
+6,Star Wars: Episode IV - A New Hope,260,566
+7,"Mummy, The",2617,566
+8,"Game, The",1625,566
+9,"Green Mile, The",3147,566
+10,"Wedding Singer, The",1777,566
+0,"Terminator, The",1240,567
+1,Toy Story 2,3114,567
+2,Schindler's List,527,567
+3,"Silence of the Lambs, The",593,567
+4,"Lord of the Rings: The Two Towers, The",5952,567
+5,Back to the Future,1270,567
+6,"Breakfast Club, The",1968,567
+7,"Truman Show, The",1682,567
+8,Austin Powers: The Spy Who Shagged Me,2683,567
+9,Dave,440,567
+10,"Blues Brothers, The",1220,567
+0,Clear and Present Danger,349,570
+1,Independence Day (a.k.a. ID4),780,570
+2,Eyes Wide Shut,2712,570
+3,Dances with Wolves,590,570
+4,"Shining, The",1258,570
+5,Citizen Kane,923,570
+6,Goodfellas,1213,570
+7,Best in Show,3911,570
+8,Total Recall,2916,570
+9,"Princess Bride, The",1197,570
+10,Casino,16,570
+0,Get Shorty,21,571
+1,Hot Shots! Part Deux,466,571
+2,Batman,592,571
+3,"Clockwork Orange, A",1206,571
+4,"Blues Brothers, The",1220,571
+5,Magnolia,3160,571
+6,Tombstone,553,571
+7,"Fugitive, The",457,571
+8,Spaceballs,3033,571
+9,American Beauty,2858,571
+10,"Fish Called Wanda, A",1079,571
+0,"Usual Suspects, The",50,572
+1,"Breakfast Club, The",1968,572
+2,Fargo,608,572
+3,Dead Man Walking,36,572
+4,Goodfellas,1213,572
+5,Almost Famous,3897,572
+6,Fantasia,1282,572
+7,Beauty and the Beast,595,572
+8,Amadeus,1225,572
+9,E.T. the Extra-Terrestrial,1097,572
+10,Rocky,1954,572
+0,Batman,592,573
+1,Almost Famous,3897,573
+2,Casino,16,573
+3,Ed Wood,235,573
+4,Pinocchio,596,573
+5,This Is Spinal Tap,1288,573
+6,Ghostbusters (a.k.a. Ghost Busters),2716,573
+7,"Fish Called Wanda, A",1079,573
+8,Schindler's List,527,573
+9,Clear and Present Danger,349,573
+10,Gladiator,3578,573
+0,"O Brother, Where Art Thou?",4027,577
+1,Willy Wonka & the Chocolate Factory,1073,577
+2,Mission: Impossible,648,577
+3,While You Were Sleeping,339,577
+4,Reservoir Dogs,1089,577
+5,Crocodile Dundee,2470,577
+6,Life Is Beautiful (La Vita è bella),2324,577
+7,Sleepless in Seattle,539,577
+8,Alien,1214,577
+9,L.A. Confidential,1617,577
+10,Dances with Wolves,590,577
+0,Jurassic Park,480,579
+1,Young Frankenstein,1278,579
+2,"Jungle Book, The",2078,579
+3,"Breakfast Club, The",1968,579
+4,"Hunt for Red October, The",1610,579
+5,Die Hard: With a Vengeance,165,579
+6,Starship Troopers,1676,579
+7,Aladdin,588,579
+8,Bridget Jones's Diary,4246,579
+9,Mrs. Doubtfire,500,579
+10,Indiana Jones and the Last Crusade,1291,579
 0,Batman,592,580
 1,Some Like It Hot,910,580
 2,Mrs. Doubtfire,500,580
@@ -32,3 +3486,201 @@
 8,Apocalypse Now,1208,580
 9,There's Something About Mary,1923,580
 10,Indiana Jones and the Temple of Doom,2115,580
+0,"Lord of the Rings: The Return of the King, The",7153,582
+1,Batman Begins,33794,582
+2,"Sixth Sense, The",2762,582
+3,Ice Age,5218,582
+4,"Matrix Reloaded, The",6365,582
+5,Harry Potter and the Chamber of Secrets,5816,582
+6,Juno,56367,582
+7,Aladdin,588,582
+8,X-Men: The Last Stand,45499,582
+9,X-Men,3793,582
+10,Clear and Present Danger,349,582
+0,"Clockwork Orange, A",1206,583
+1,Big,2797,583
+2,Ace Ventura: When Nature Calls,19,583
+3,Groundhog Day,1265,583
+4,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,583
+5,Batman,592,583
+6,Men in Black (a.k.a. MIB),1580,583
+7,Magnolia,3160,583
+8,Life Is Beautiful (La Vita è bella),2324,583
+9,Grosse Pointe Blank,1500,583
+10,Dave,440,583
+0,Full Metal Jacket,1222,584
+1,Back to the Future Part III,2012,584
+2,Beetlejuice,2174,584
+3,Stargate,316,584
+4,Ed Wood,235,584
+5,Men in Black (a.k.a. MIB),1580,584
+6,Tron,2105,584
+7,"Jungle Book, The",2078,584
+8,L.A. Confidential,1617,584
+9,"Silence of the Lambs, The",593,584
+10,Independence Day (a.k.a. ID4),780,584
+0,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone),4896,585
+1,Naked Gun 33 1/3: The Final Insult,370,585
+2,Dances with Wolves,590,585
+3,Casper,158,585
+4,"Silence of the Lambs, The",593,585
+5,Rushmore,2395,585
+6,While You Were Sleeping,339,585
+7,"Client, The",350,585
+8,True Lies,380,585
+9,Con Air,1552,585
+10,Bridget Jones's Diary,4246,585
+0,Mrs. Doubtfire,500,586
+1,Pinocchio,596,586
+2,Full Metal Jacket,1222,586
+3,Batman,592,586
+4,Natural Born Killers,288,586
+5,"Three Musketeers, The",552,586
+6,Stand by Me,1259,586
+7,"American President, The",11,586
+8,Amadeus,1225,586
+9,Ace Ventura: When Nature Calls,19,586
+10,Snow White and the Seven Dwarfs,594,586
+0,Blow,4239,587
+1,Election,2599,587
+2,Wayne's World,3253,587
+3,"Jungle Book, The",2078,587
+4,Young Frankenstein,1278,587
+5,Jurassic Park,480,587
+6,Babe,34,587
+7,Back to the Future Part III,2012,587
+8,Romancing the Stone,2406,587
+9,"Silence of the Lambs, The",593,587
+10,"Green Mile, The",3147,587
+0,American History X,2329,588
+1,Fargo,608,588
+2,Star Wars: Episode VI - Return of the Jedi,1210,588
+3,"Goonies, The",2005,588
+4,Tombstone,553,588
+5,Airplane!,2791,588
+6,"Matrix, The",2571,588
+7,L.A. Confidential,1617,588
+8,Casper,158,588
+9,Alien,1214,588
+10,Star Trek: Generations,329,588
+0,Con Air,1552,591
+1,Saving Private Ryan,2028,591
+2,Beetlejuice,2174,591
+3,Ace Ventura: Pet Detective,344,591
+4,American Beauty,2858,591
+5,From Dusk Till Dawn,70,591
+6,"Game, The",1625,591
+7,Maverick,368,591
+8,Big,2797,591
+9,"Fugitive, The",457,591
+10,Life Is Beautiful (La Vita è bella),2324,591
+0,Goodfellas,1213,592
+1,Mission: Impossible,648,592
+2,Enemy of the State,2353,592
+3,Back to the Future Part III,2012,592
+4,Star Wars: Episode IV - A New Hope,260,592
+5,"Mummy, The",2617,592
+6,"Wedding Singer, The",1777,592
+7,"Three Musketeers, The",552,592
+8,Austin Powers: International Man of Mystery,1517,592
+9,"Game, The",1625,592
+10,Run Lola Run (Lola rennt),2692,592
+0,Alien,1214,593
+1,"Wedding Singer, The",1777,593
+2,High Fidelity,3481,593
+3,"Blues Brothers, The",1220,593
+4,"Fish Called Wanda, A",1079,593
+5,Austin Powers: International Man of Mystery,1517,593
+6,"Fugitive, The",457,593
+7,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",3996,593
+8,Who Framed Roger Rabbit?,2987,593
+9,Independence Day (a.k.a. ID4),780,593
+10,Indiana Jones and the Temple of Doom,2115,593
+0,Twister,736,594
+1,"Shawshank Redemption, The",318,594
+2,"Mask, The",367,594
+3,Pinocchio,596,594
+4,Beetlejuice,2174,594
+5,Stand by Me,1259,594
+6,Young Frankenstein,1278,594
+7,Cliffhanger,434,594
+8,Goodfellas,1213,594
+9,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark),1198,594
+10,Platoon,1090,594
+0,"Lion King, The",364,596
+1,Hot Shots! Part Deux,466,596
+2,Terminator 2: Judgment Day,589,596
+3,Star Wars: Episode VI - Return of the Jedi,1210,596
+4,True Lies,380,596
+5,Braveheart,110,596
+6,"Crouching Tiger, Hidden Dragon (Wo hu cang long)",3996,596
+7,Willy Wonka & the Chocolate Factory,1073,596
+8,Four Weddings and a Funeral,357,596
+9,City Slickers II: The Legend of Curly's Gold,432,596
+10,Pretty Woman,597,596
+0,Star Wars: Episode IV - A New Hope,260,597
+1,Dances with Wolves,590,597
+2,Predator,3527,597
+3,Jurassic Park,480,597
+4,Beauty and the Beast,595,597
+5,Fargo,608,597
+6,Stargate,316,597
+7,"Matrix, The",2571,597
+8,Back to the Future Part III,2012,597
+9,Twelve Monkeys (a.k.a. 12 Monkeys),32,597
+10,"Lock, Stock & Two Smoking Barrels",2542,597
+0,As Good as It Gets,1784,601
+1,Charlie's Angels,3977,601
+2,Life Is Beautiful (La Vita è bella),2324,601
+3,Grosse Pointe Blank,1500,601
+4,"Jungle Book, The",2078,601
+5,Crimson Tide,161,601
+6,Beetlejuice,2174,601
+7,Austin Powers: The Spy Who Shagged Me,2683,601
+8,"Fugitive, The",457,601
+9,Waterworld,208,601
+10,Butch Cassidy and the Sundance Kid,1304,601
+0,"Princess Bride, The",1197,602
+1,"Big Lebowski, The",1732,602
+2,Dances with Wolves,590,602
+3,Men in Black (a.k.a. MIB),1580,602
+4,Indiana Jones and the Temple of Doom,2115,602
+5,Goldfinger,2947,602
+6,Austin Powers: International Man of Mystery,1517,602
+7,"Clockwork Orange, A",1206,602
+8,Young Frankenstein,1278,602
+9,"Mask, The",367,602
+10,Crocodile Dundee,2470,602
+0,"Honey, I Shrunk the Kids",2054,604
+1,Jumanji,2,604
+2,"Rock, The",733,604
+3,American History X,2329,604
+4,Rocky,1954,604
+5,Waterworld,208,604
+6,Fight Club,2959,604
+7,Total Recall,2916,604
+8,Mr. Holland's Opus,62,604
+9,Four Weddings and a Funeral,357,604
+10,"Abyss, The",1127,604
+0,"Mask, The",367,605
+1,Psycho,1219,605
+2,"Piano, The",509,605
+3,"Fugitive, The",457,605
+4,Pinocchio,596,605
+5,Beetlejuice,2174,605
+6,This Is Spinal Tap,1288,605
+7,Beauty and the Beast,595,605
+8,"Wizard of Oz, The",919,605
+9,Starship Troopers,1676,605
+10,Full Metal Jacket,1222,605
+0,Crimson Tide,161,607
+1,Reservoir Dogs,1089,607
+2,Four Weddings and a Funeral,357,607
+3,E.T. the Extra-Terrestrial,1097,607
+4,While You Were Sleeping,339,607
+5,Space Jam,673,607
+6,Fight Club,2959,607
+7,Mrs. Doubtfire,500,607
+8,"Terminator, The",1240,607
+9,There's Something About Mary,1923,607
+10,Robin Hood: Men in Tights,520,607

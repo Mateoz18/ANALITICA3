@@ -74,7 +74,7 @@ def MovieRecommender(movie_name=list(tabla_completa['movie_title'].value_counts(
 
 # Función para procesar y guardar recomendaciones
 def recomendar(user_id, conn=None, cur=None, movie_dum2=None, movie=None):
-    ratings = pd.read_sql('SELECT * FROM ratings_final WHERE user_id=:user', conn, params={'user': user_id})
+    ratings = pd.read_sql('SELECT * FROM full_ratings WHERE user_id=:user', conn, params={'user': user_id})
 
     if ratings.empty:
         logging.warning(f"No hay ratings para el usuario {user_id}")
@@ -122,18 +122,18 @@ def main(list_user):
     recomendaciones_todos.to_excel('/content/drive/MyDrive/Mod2/ANALITICA3/recomendaciones/recomendaciones.xlsx')
     recomendaciones_todos.to_csv('/content/drive/MyDrive/Mod2/ANALITICA3/recomendaciones/recomendaciones.csv')
 
-# Ejecutar el código principal
-if __name__ == "__main__":
-    list_user = [213, 381, 580]
-    main(list_user)
+# # Ejecutar el código principal
+# if __name__ == "__main__":
+#     list_user = [213, 381, 580]
+#     main(list_user)
 
 """**Para Todos los Usuarios**"""
 
-# df_users = pd.read_sql('SELECT DISTINCT user_id FROM ratings_final', conn)
-# list_user = df_users['user_id'].tolist()
+df_users = pd.read_sql('SELECT DISTINCT user_id FROM ratings_final', conn)
+list_user = df_users['user_id'].tolist()
 
-# if __name__ == "__main__":
-#     conn = sql.connect('/content/drive/MyDrive/Mod2/ANALITICA3/data/db_movies')
-#     df_users = pd.read_sql('SELECT DISTINCT user_id FROM ratings_final', conn)
-#     list_user = df_users['user_id'].tolist()
-#     main(list_user)
+if __name__ == "__main__":
+    conn = sql.connect('/content/drive/MyDrive/Mod2/ANALITICA3/data/db_movies')
+    df_users = pd.read_sql('SELECT DISTINCT user_id FROM full_ratings', conn)
+    list_user = df_users['user_id'].tolist()
+    main(list_user)
